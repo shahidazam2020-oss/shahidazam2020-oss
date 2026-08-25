@@ -97,24 +97,24 @@ I enjoy building complete software systems—from networking and operating syste
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🏆 Codeforces</h3>
-      <p><b>Expert</b></p>
+    <td width="33%" align="center" valign="middle">
+      <p>🏆 <b>Codeforces</b></p>
+      <p><small>Expert</small></p>
       <a href="https://codeforces.com/profile/shahidazam2020" target="_blank">
         <img src="https://img.shields.io/badge/VIEW_PROFILE-3B5998?style=for-the-badge&logo=codeforces&logoColor=white" />
       </a>
     </td>
-    <td width="33%" align="center" valign="top">
-      <h3>⭐ CodeChef</h3>
-      <p><b>4★ Rated</b></p>
+    <td width="33%" align="center" valign="middle">
+      <p>⭐ <b>CodeChef</b></p>
+      <p><small>4★ Rated</small></p>
       <a href="https://www.codechef.com/users/shahidazam2020" target="_blank">
         <img src="https://img.shields.io/badge/VIEW_PROFILE-5B4636?style=for-the-badge&logo=codechef&logoColor=white" />
       </a>
     </td>
-    <td width="34%" align="center" valign="top">
-      <h3>💻 DSA</h3>
-      <p><b>1000+ Problems Solved</b></p>
-      <p><small>Across LeetCode, Codeforces & CodeChef</small></p>
+    <td width="34%" align="center" valign="middle">
+      <p>💻 <b>DSA</b></p>
+      <p><b><small>1000+ Problems Solved</small></b></p>
+      <p><small>Across LeetCode,<br>Codeforces & CodeChef</small></p>
     </td>
   </tr>
 </table>

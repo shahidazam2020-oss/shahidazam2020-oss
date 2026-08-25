@@ -85,6 +85,7 @@ I enjoy building complete software systems—from networking and operating syste
 
 
 ## Competitive Programming
+<p align="center">
 <div align="center">
 
 <table width="100%">
@@ -118,6 +119,9 @@ I enjoy building complete software systems—from networking and operating syste
 </table>
 
 </div>
+</div>
+</div>
+</p>
 ---
 
 ## Connect With Me
@@ -132,6 +136,7 @@ I enjoy building complete software systems—from networking and operating syste
 ---
 
 ## Currently Exploring
+<p align="center">
 
 * 🧠 Large Language Models (LLMs)
 * 🔍 Retrieval-Augmented Generation (RAG)
@@ -140,6 +145,7 @@ I enjoy building complete software systems—from networking and operating syste
 * 🤖 AI Infrastructure & MLOps
 * 📦 Microservices Architecture
 * 🚀 High-Performance Backend Engineering
+  </p>
 ---
 
 ## What I'm Looking For

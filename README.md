@@ -1,8 +1,8 @@
-<!-- TOP BANNER -->
-https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0366d6&height=200&section=header&text=SHAHID%20AZAM&fontSize=42&fontColor=ffffff&desc=DATA%20•%20INSIGHTS%20•%20LANGUAGE%20•%20INTELLIGENCE&descSize=16
-
-<!-- 1. STREAK STATS (Total Contributions & Streak) -->
-https://streak-stats.demolab.com?user=shahidazam2020-oss&theme=dark
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="ChatGPT Image Aug 26, 2026, 01_57_22 AM"/>
+</div>
+`
 <!-- SOCIAL / PROFILE BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

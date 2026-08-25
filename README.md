@@ -166,3 +166,8 @@ If you'd like to collaborate, discuss an opportunity, or just connect, feel free
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0366d6&height=100&section=footer" width="100%"/>
 </div>
+
+---
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/prd/detail-sign?username=shahidazam2020-oss&theme=default" width="48%" />
+</p>

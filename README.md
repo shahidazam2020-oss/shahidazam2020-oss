@@ -75,7 +75,7 @@ I enjoy building complete software systems—from networking and operating syste
     <img src="https://streak-stats.demolab.com?user=shahidazam2020-oss&theme=dark" width="48%" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/shahidazam2020-oss">
-    <img src="https://github-readme-stats.vercel.app/api?username=shahidazam2020-oss&show_icons=true&theme=dark" width="48%" alt="GitHub Stats" />
+    <img src="github_top_languages_commit_full_hd" />
   </a>
 </p>
 

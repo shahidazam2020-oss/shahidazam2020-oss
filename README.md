@@ -83,7 +83,7 @@ I enjoy building complete software systems—from networking and operating syste
   <a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/github_top_languages_repo_full_hd.png">
     <img src="github_commits_chart_full_hd" />
   </a>
-  <a href="https://github.com/shahidazam2020-oss">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidazam2020-oss&layout=donut&theme=dark" width="48%" alt="Languages Donut">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidazam2020-oss&layout=donut&theme=dark" width="48%" alt="Languages Donut" />
   </a>
 </p>

@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="ChatGPT Image Aug 26, 2026, 01_57_22 AM" width="100%"/>
+  <img src="ChatGPT Image Aug 26, 2026, 01_57_22 AM"/>
 </div>
 
 <!-- SOCIAL / PROFILE BADGES -->

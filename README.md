@@ -104,6 +104,8 @@ I enjoy building complete software systems—from networking and operating syste
         <img src="https://img.shields.io/badge/VIEW_PROFILE-3B5998?style=for-the-badge&logo=codeforces&logoColor=white" />
       </a>
     </td>
+    </tr>
+  <tr>
     <td width="33%" align="center" valign="top">
       <h3>⭐ CodeChef</h3>
       <p><b>4★ Rated</b></p>
@@ -111,6 +113,8 @@ I enjoy building complete software systems—from networking and operating syste
         <img src="https://img.shields.io/badge/VIEW_PROFILE-5B4636?style=for-the-badge&logo=codechef&logoColor=white" />
       </a>
     </td>
+      </tr>
+  <tr>
     <td width="34%" align="center" valign="top">
       <h3>💻 DSA</h3>
       <p><b>1000+ Problems Solved</b></p>

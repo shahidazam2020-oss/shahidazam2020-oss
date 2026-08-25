@@ -72,17 +72,18 @@ I enjoy building complete software systems—from networking and operating syste
 
 <p align="center">
   <a href="https://github.com/shahidazam2020-oss">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidazam2020-oss&theme=dark" width="49%" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=shahidazam2020-oss&theme=dark" width="48%" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/shahidazam2020-oss">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidazam2020-oss&theme=react-dark&hide_border=true" width="49%" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shahidazam2020-oss&show_icons=true&theme=dark" width="48%" alt="GitHub Stats" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/shahidazam2020-oss">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidazam2020-oss&layout=donut&theme=dark" width="49%" alt="Top Languages by Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidazam2020-oss&layout=compact&theme=dark" width="48%" alt="Top Languages" />
   </a>
   <a href="https://github.com/shahidazam2020-oss">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidazam2020-oss&layout=donut-vertical&theme=dark" width="49%" alt="Top Languages by Commit" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidazam2020-oss&layout=donut&theme=dark" width="48%" alt="Languages Donut" />
   </a>
 </p>

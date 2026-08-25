@@ -73,21 +73,13 @@ I enjoy building complete software systems—from networking and operating syste
 ## GitHub Stats
 
 <p align="center">
-   <a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/github_top_languages_commit_full_hd.png">
-    <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/github_contributions_stats_full_hd.png" width="48%" alt="Languages Donut />
-  </a>
-  <a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/github_top_languages_commit_full_hd.png">
-    <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/github_commits_chart_full_hd.png" width="48%" alt="Languages Donut />
-  </a>
+  <img src="https://raw.githubusercontent.com/shahidazam2020-oss/shahidazam2020-oss/main/Images/github_contributions_stats_full_hd.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/shahidazam2020-oss/shahidazam2020-oss/main/Images/github_commits_chart_full_hd.png" width="48%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/github_top_languages_repo_full_hd.png">
-    <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/github_top_languages_commit_full_hd.png" width="48%" alt="Languages Donut />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidazam2020-oss&layout=donut&theme=dark" width="48%" alt="Languages Donut">
-    <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/github_top_languages_repo_full_hd.png" width="48%" alt="Languages Donut />
-  </a>
+  <img src="https://raw.githubusercontent.com/shahidazam2020-oss/shahidazam2020-oss/main/Images/github_top_languages_repo_full_hd.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/shahidazam2020-oss/shahidazam2020-oss/main/Images/github_top_languages_commit_full_hd.png" width="48%" />
 </p>
 ---
 

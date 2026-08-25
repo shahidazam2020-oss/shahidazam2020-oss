@@ -75,7 +75,7 @@ I enjoy building complete software systems—from networking and operating syste
     <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/github_contributions_stats_full_hd.png" />
   </a>
   <a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/github_top_languages_commit_full_hd.png">
-    <img src="github_top_languages_commit_full_hd" />
+    <img src="[github_top_languages_commit_full_hd](https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/github_commits_chart_full_hd.png)" />
   </a>
 </p>
 

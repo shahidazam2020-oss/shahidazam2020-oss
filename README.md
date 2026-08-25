@@ -91,7 +91,6 @@ I enjoy building complete software systems—from networking and operating syste
 </p>
 ---
 
----
 
 ## Competitive Programming
 

@@ -19,7 +19,7 @@ I enjoy building complete software systems—from networking and operating syste
 - 🎓 **Degree / Field:** Computer Science / Information Technology
 - 🏆 **Achievements:** 1000+ DSA problems solved
 - 🎯 **Focus Areas:** Backend Development, AI/ML, Distributed Systems
-- 📬 **Contact:** your-email@gmail.com
+- 📬 **Contact:** shahidazam2020@gmail.com
 
 ---
 

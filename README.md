@@ -91,6 +91,48 @@ I enjoy building complete software systems—from networking and operating syste
 </p>
 ---
 
+---
+
+## Competitive Programming
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🏆 Codeforces</h3>
+      <p><b>Expert</b></p>
+      <a href="https://codeforces.com/profile/shahidazam2020" target="_blank">
+        <img src="https://img.shields.io/badge/VIEW_PROFILE-3B5998?style=for-the-badge&logo=codeforces&logoColor=white" />
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>⭐ CodeChef</h3>
+      <p><b>4★ Rated</b></p>
+      <a href="https://www.codechef.com/users/shahidazam2020" target="_blank">
+        <img src="https://img.shields.io/badge/VIEW_PROFILE-5B4636?style=for-the-badge&logo=codechef&logoColor=white" />
+      </a>
+    </td>
+    <td width="34%" align="center" valign="top">
+      <h3>💻 DSA</h3>
+      <p><b>1000+ Problems Solved</b></p>
+      <p><small>Across LeetCode, Codeforces & CodeChef</small></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:shahidazam2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shahidazam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/shahidazam" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/shahidazam2020" target="_blank"><img src="https://img.shields.io/badge/Codeforces-3B5998?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/shahidazam2020" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+</p>
+
+---
+
 ## Currently Exploring
 
 * 🧠 Large Language Models (LLMs)
@@ -105,7 +147,7 @@ I enjoy building complete software systems—from networking and operating syste
 
 ## What I'm Looking For
 
-I'm actively looking for **Software Engineering**, **Backend Engineering**, and **AI/ML Engineering Internship** opportunities where I can contribute to real-world systems, learn from experienced engineers, and build scalable products.
+I'm actively looking for **AI Engineering**, **Backend Engineering**, and **AI/ML Engineering Internship** opportunities where I can contribute to real-world systems, learn from experienced engineers, and build scalable products.
 
 If you'd like to collaborate, discuss an opportunity, or just connect, feel free to reach out.
 

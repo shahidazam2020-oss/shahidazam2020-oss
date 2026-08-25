@@ -87,3 +87,33 @@ I enjoy building complete software systems—from networking and operating syste
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidazam2020-oss&layout=donut&theme=dark" width="48%" alt="Languages Donut" />
   </a>
 </p>
+---
+
+## Currently Exploring
+
+* 🧠 Large Language Models (LLMs)
+* 🔍 Retrieval-Augmented Generation (RAG)
+* ⚡ Distributed Systems
+* ☁️ Cloud-Native Backend Development
+* 🤖 AI Infrastructure & MLOps
+* 📦 Microservices Architecture
+* 🚀 High-Performance Backend Engineering
+
+---
+
+## What I'm Looking For
+
+I'm actively looking for **Software Engineering**, **Backend Engineering**, and **AI/ML Engineering Internship** opportunities where I can contribute to real-world systems, learn from experienced engineers, and build scalable products.
+
+If you'd like to collaborate, discuss an opportunity, or just connect, feel free to reach out.
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b><br />
+  If you like my work, consider giving a ⭐ to the repositories you find useful.
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0366d6&height=100&section=footer" width="100%"/>
+</div>

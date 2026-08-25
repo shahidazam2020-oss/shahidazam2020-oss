@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0366d6&height=200&section=header&text=YOUR%20NAME&fontSize=42&fontColor=ffffff&desc=Building%20Production-Ready%20Backend%20%26%20AI%20Systems&descSize=18" width="100%"/>
+  <img src="ChatGPT Image Aug 26, 2026, 01_57_22 AM" width="100%"/>
 </div>
 
 <!-- SOCIAL / PROFILE BADGES -->

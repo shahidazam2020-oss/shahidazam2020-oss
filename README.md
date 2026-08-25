@@ -1,8 +1,14 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="ChatGPT Image Aug 26, 2026, 01_57_22 AM"/>
-</div>
+```markdown
+## My Profile
 
+![Banner](images/banner.png)
+
+![Top Languages](images/top-languages.png)
+
+![Commits](images/commits.png)
+
+![Contributions](images/contributions.png)
+```
 <!-- SOCIAL / PROFILE BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

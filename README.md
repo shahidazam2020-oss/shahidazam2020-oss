@@ -70,13 +70,14 @@ I enjoy building complete software systems—from networking and operating syste
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidazam2020-oss&theme=dark" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidazam2020-oss&theme=react-dark" width="48%" />
 </p>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0366d6&height=100&section=footer" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidazam2020-oss&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidazam2020-oss&layout=donut&theme=dark" width="48%" />
+</p>

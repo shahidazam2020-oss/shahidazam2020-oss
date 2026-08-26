@@ -1,0 +1,91 @@
+<svg fill="none" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .banner-container {
+          position: relative;
+          width: 800px;
+          height: 200px;
+          background: linear-gradient(135deg, #435465 0%, #6088ba 45%, #465a71 100%);
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          color: #ffffff;
+          overflow: hidden;
+          box-sizing: border-box;
+        }
+
+        /* Bottom wavy shape overlay */
+        .wave {
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          width: 100%;
+          height: 40px;
+          fill: #ffffff;
+        }
+
+        .name {
+          font-size: 42px;
+          font-weight: 800;
+          letter-spacing: 0.5px;
+          margin-bottom: 8px;
+          z-index: 2;
+          text-shadow: 0 2px 4px rgba(0,0,0,0.15);
+        }
+
+        .subtitle-wrapper {
+          position: relative;
+          height: 24px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          z-index: 2;
+        }
+
+        .animated-text {
+          position: absolute;
+          font-size: 18px;
+          font-weight: 600;
+          color: rgba(255, 255, 255, 0.92);
+          opacity: 0;
+          white-space: nowrap;
+          animation: rotateTitles 15s infinite ease-in-out;
+        }
+
+        /* Staggered animation timings for cycling roles */
+        .animated-text:nth-child(1) { animation-delay: 0s; }
+        .animated-text:nth-child(2) { animation-delay: 3s; }
+        .animated-text:nth-child(3) { animation-delay: 6s; }
+        .animated-text:nth-child(4) { animation-delay: 9s; }
+        .animated-text:nth-child(5) { animation-delay: 12s; }
+
+        @keyframes rotateTitles {
+          0% { opacity: 0; transform: translateY(8px); }
+          5% { opacity: 1; transform: translateY(0); }
+          18% { opacity: 1; transform: translateY(0); }
+          23% { opacity: 0; transform: translateY(-8px); }
+          100% { opacity: 0; transform: translateY(-8px); }
+        }
+      </style>
+
+      <div class="banner-container">
+        <div class="name">Shahid Azam</div>
+        
+        <div class="subtitle-wrapper">
+          <span class="animated-text">AI Engineer</span>
+          <span class="animated-text">Data Scientist</span>
+          <span class="animated-text">NLP &amp; RAG Specialist</span>
+          <span class="animated-text">Turning Data into Decisions</span>
+          <span class="animated-text">40+ Projects on Kaggle</span>
+        </div>
+
+        <svg class="wave" viewBox="0 0 800 40" preserveAspectRatio="none">
+          <path d="M0 25 Q 200 5, 400 25 T 800 25 L 800 40 L 0 40 Z"></path>
+        </svg>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

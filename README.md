@@ -121,6 +121,41 @@ I enjoy building complete software systems—from networking and operating syste
 
 ---
 
+## GitHub Activity
+
+<!-- Top Large Profile Summary Card -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-light&area=true&hide_border=false" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+<!-- Row 1: Languages by Repo & Commit -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=pie&theme=default&hide_border=false" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=pie&theme=default&hide_border=false" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Row 2: General Stats & Hourly Commits -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=false" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-light&hide_border=false" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
 
 ## Competitive Programming
 <p align="center">

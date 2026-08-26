@@ -235,5 +235,8 @@ If you like my work, consider giving a ⭐ to the repositories you find useful.
   <path d="M0 40 Q 200 10, 400 35 T 800 25 L 800 90 L 0 90 Z" fill="url(#footer-grad)" opacity="0.6"/>
   <path d="M0 55 Q 250 25, 500 45 T 800 35 L 800 90 L 0 90 Z" fill="url(#footer-grad)"/>
 </svg>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=435465,6088ba&height=120&section=footer&width=1000" width="100%" />
+</p>
 
 ---

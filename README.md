@@ -203,3 +203,37 @@ I enjoy building complete software systems—from networking and operating syste
 | ⭐⭐⭐ | [![3 Stars](https://img.shields.io/badge/Submit-3_Stars_⭐-238636?style=for-the-badge)](mailto:your-email@example.com?subject=3%20Star%20Rating&body=Name:%0AEmail:%0AFeedback:) |
 
 </div>
+
+---
+
+## What I'm Looking For
+
+I'm actively looking for **Software Engineering**, **Backend Engineering**, and **AI/ML Engineering Internship** opportunities where I can contribute to real-world systems, learn from experienced engineers, and build scalable products.
+
+If you'd like to collaborate, discuss an opportunity, or just connect, feel free to reach out.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to the repositories you find useful.
+
+</div>
+
+<br />
+
+<svg fill="none" width="800" height="90" viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4a8be2" />
+      <stop offset="50%" stop-color="#55759e" />
+      <stop offset="100%" stop-color="#424c57" />
+    </linearGradient>
+  </defs>
+  <path d="M0 40 Q 200 10, 400 35 T 800 25 L 800 90 L 0 90 Z" fill="url(#footer-grad)" opacity="0.6"/>
+  <path d="M0 55 Q 250 25, 500 45 T 800 35 L 800 90 L 0 90 Z" fill="url(#footer-grad)"/>
+</svg>
+
+---

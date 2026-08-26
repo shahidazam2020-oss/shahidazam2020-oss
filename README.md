@@ -13,6 +13,12 @@
 </p>
 
 ---
+<p align="center">
+<p align="center">
+  <img src="./header.svg" alt="Shahid Azam Header Banner" width="100%" />
+</p>
+
+---
 
 ## About Me
 

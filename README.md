@@ -7,7 +7,7 @@
 <!-- SOCIAL / PROFILE BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://myaccount.google.com/email?continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3DOGB%26utm_medium%3Dapp&utm_source=OGB&utm_medium=app">
+  <a href="https://shahidazam2020@gmail.com](mailto:shahidazam2020@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   <a href="https://leetcode.com/shahidazam" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>

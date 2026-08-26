@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://shahidazam2020@gmail.com](mailto:shahidazam2020@gmail.com">
+    [![Email](https://img.shields.io/badge/EMAIL-shahidazam2020%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahidazam2020@gmail.com)
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   <a href="https://leetcode.com/shahidazam" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>

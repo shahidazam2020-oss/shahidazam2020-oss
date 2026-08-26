@@ -187,69 +187,69 @@ I enjoy building complete software systems—from networking and operating syste
 ---
 
 <svg fill="none" width="700" height="260" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .form-card {
-          width: 680px;
-          padding: 20px;
-          background-color: #0d1117;
-          border: 1px solid #30363d;
-          border-radius: 8px;
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-          color: #c9d1d9;
-          box-sizing: border-box;
-        }
-        .form-title {
-          font-size: 18px;
-          font-weight: bold;
-          color: #58a6ff;
-          margin-bottom: 15px;
-        }
-        .input-box {
-          display: block;
-          width: 100%;
-          padding: 8px 12px;
-          margin-bottom: 12px;
-          background: #161b22;
-          border: 1px solid #30363d;
-          border-radius: 6px;
-          color: #8b949e;
-          text-decoration: none;
-          font-size: 14px;
-          box-sizing: border-box;
-        }
-        .submit-btn {
-          display: inline-block;
-          background-color: #238636;
-          color: #ffffff;
-          padding: 10px 20px;
-          border-radius: 6px;
-          font-weight: bold;
-          text-decoration: none;
-          font-size: 14px;
-          margin-top: 5px;
-        }
-        .submit-btn:hover {
-          background-color: #2ea043;
-        }
-      </style>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .form-card {
+          width: 680px;
+          padding: 20px;
+          background-color: #0d1117;
+          border: 1px solid #30363d;
+          border-radius: 8px;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+          color: #c9d1d9;
+          box-sizing: border-box;
+        }
+        .form-title {
+          font-size: 18px;
+          font-weight: bold;
+          color: #58a6ff;
+          margin-bottom: 15px;
+        }
+        .input-box {
+          display: block;
+          width: 100%;
+          padding: 8px 12px;
+          margin-bottom: 12px;
+          background: #161b22;
+          border: 1px solid #30363d;
+          border-radius: 6px;
+          color: #8b949e;
+          text-decoration: none;
+          font-size: 14px;
+          box-sizing: border-box;
+        }
+        .submit-btn {
+          display: inline-block;
+          background-color: #238636;
+          color: #ffffff;
+          padding: 10px 20px;
+          border-radius: 6px;
+          font-weight: bold;
+          text-decoration: none;
+          font-size: 14px;
+          margin-top: 5px;
+        }
+        .submit-btn:hover {
+          background-color: #2ea043;
+        }
+      </style>
 
-      <div class="form-card">
-        <div class="form-title">💬 Leave a Feedback &amp; Rating</div>
-        
-        <a href="https://forms.google.com" target="_blank" class="input-box">
-          👤 Click to enter your Name &amp; Email...
-        </a>
+      <div class="form-card">
+        <div class="form-title">💬 Leave a Feedback &amp; Rating</div>
+        
+        <a href="https://forms.google.com" target="_blank" class="input-box">
+          👤 Click to enter your Name &amp; Email...
+        </a>
 
-        <a href="https://forms.google.com" target="_blank" class="input-box">
-          ⭐ Select Rating: ⭐⭐⭐⭐⭐ (5/5)
-        </a>
+        <a href="https://forms.google.com" target="_blank" class="input-box">
+          ⭐ Select Rating: ⭐⭐⭐⭐⭐ (5/5)
+        </a>
 
-        <a href="https://forms.google.com" target="_blank" class="submit-btn">
-          Submit Rating ⭐
-        </a>
-      </div>
-    </div>
-  </foreignObject>
+        <a href="https://forms.google.com" target="_blank" class="submit-btn">
+          Submit Rating ⭐
+        </a>
+      </div>
+    </div>
+  </foreignObject>
 </svg>

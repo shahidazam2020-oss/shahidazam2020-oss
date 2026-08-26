@@ -15,7 +15,7 @@
 ---
 <p align="center">
 <p align="center">
-  <img src="./header.svg" alt="Shahid Azam Header Banner" width="100%" />
+  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/gemini-svg.svg" width="100%" />
 </p>
 
 ---

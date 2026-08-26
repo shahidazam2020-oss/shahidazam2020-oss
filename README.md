@@ -186,26 +186,70 @@ I enjoy building complete software systems—from networking and operating syste
   </p>
 ---
 
-## What I'm Looking For
+<svg fill="none" width="700" height="260" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .form-card {
+          width: 680px;
+          padding: 20px;
+          background-color: #0d1117;
+          border: 1px solid #30363d;
+          border-radius: 8px;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+          color: #c9d1d9;
+          box-sizing: border-box;
+        }
+        .form-title {
+          font-size: 18px;
+          font-weight: bold;
+          color: #58a6ff;
+          margin-bottom: 15px;
+        }
+        .input-box {
+          display: block;
+          width: 100%;
+          padding: 8px 12px;
+          margin-bottom: 12px;
+          background: #161b22;
+          border: 1px solid #30363d;
+          border-radius: 6px;
+          color: #8b949e;
+          text-decoration: none;
+          font-size: 14px;
+          box-sizing: border-box;
+        }
+        .submit-btn {
+          display: inline-block;
+          background-color: #238636;
+          color: #ffffff;
+          padding: 10px 20px;
+          border-radius: 6px;
+          font-weight: bold;
+          text-decoration: none;
+          font-size: 14px;
+          margin-top: 5px;
+        }
+        .submit-btn:hover {
+          background-color: #2ea043;
+        }
+      </style>
 
-I'm actively looking for **AI Engineering**, **Backend Engineering**, and **AI/ML Engineering Internship** opportunities where I can contribute to real-world systems, learn from experienced engineers, and build scalable products.
+      <div class="form-card">
+        <div class="form-title">💬 Leave a Feedback &amp; Rating</div>
+        
+        <a href="https://forms.google.com" target="_blank" class="input-box">
+          👤 Click to enter your Name &amp; Email...
+        </a>
 
-If you'd like to collaborate, discuss an opportunity, or just connect, feel free to reach out.
+        <a href="https://forms.google.com" target="_blank" class="input-box">
+          ⭐ Select Rating: ⭐⭐⭐⭐⭐ (5/5)
+        </a>
 
----
-
-<div align="center">
-
-## ⭐ Rate My GitHub Profile
-
-**Click a rating below to send direct feedback to my inbox:**
-
-| Rating | Click to Send |
-| :---: | :--- |
-| ⭐⭐⭐⭐⭐ | [5 Stars - Excellent](mailto:https://myaccount.google.com/email?continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3DOGB%26utm_medium%3Dapp&utm_source=OGB&utm_medium=app) |
-| ⭐⭐⭐⭐ | [4 Stars - Very Good](mailto:your-email@example.com?subject=Profile%20Rating%3A%204%20Stars&body=Name%3A%0AEmail%3A%0AFeedback%3A) |
-| ⭐⭐⭐ | [3 Stars - Good](mailto:your-email@example.com?subject=Profile%20Rating%3A%203%20Stars&body=Name%3A%0AEmail%3A%0AFeedback%3A) |
-| ⭐⭐ | [2 Stars - Fair](mailto:your-email@example.com?subject=Profile%20Rating%3A%202%20Stars&body=Name%3A%0AEmail%3A%0AFeedback%3A) |
-| ⭐ | [1 Star - Needs Work](mailto:your-email@example.com?subject=Profile%20Rating%3A%201%20Star&body=Name%3A%0AEmail%3A%0AFeedback%3A) |
-
-</div>
+        <a href="https://forms.google.com" target="_blank" class="submit-btn">
+          Submit Rating ⭐
+        </a>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

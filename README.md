@@ -194,46 +194,18 @@ If you'd like to collaborate, discuss an opportunity, or just connect, feel free
 
 ---
 
-## 💬 Leave a Feedback & Rating
+<div align="center">
 
-<form action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST">
-  <table border="0" cellspacing="0" cellpadding="5">
-    <tr>
-      <td><label for="name"><b>Your Name:</b></label></td>
-      <td><input type="text" id="name" name="name" placeholder="John Doe" required style="width: 250px;" /></td>
-    </tr>
-    <tr>
-      <td><label for="email"><b>Your Email:</b></label></td>
-      <td><input type="email" id="email" name="reply_to" placeholder="john@example.com" required style="width: 250px;" /></td>
-    </tr>
-    <tr>
-      <td><label for="rating"><b>Star Rating:</b></label></td>
-      <td>
-        <select id="rating" name="rating" required style="width: 258px;">
-          <option value="⭐⭐⭐⭐⭐ (5/5) - Excellent">⭐⭐⭐⭐⭐ (5/5) - Excellent</option>
-          <option value="⭐⭐⭐⭐ (4/5) - Very Good">⭐⭐⭐⭐ (4/5) - Very Good</option>
-          <option value="⭐⭐⭐ (3/5) - Good">⭐⭐⭐ (3/5) - Good</option>
-          <option value="⭐⭐ (2/5) - Fair">⭐⭐ (2/5) - Fair</option>
-          <option value="⭐ (1/5) - Needs Improvement">⭐ (1/5) - Needs Improvement</option>
-        </select>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top"><label for="message"><b>Comments / Feedback:</b></label></td>
-      <td><textarea id="message" name="message" rows="4" placeholder="Share your thoughts..." style="width: 250px;"></textarea></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-        <button type="submit" style="background-color: #2da44e; color: white; padding: 6px 16px; border: none; border-radius: 6px; cursor: pointer; font-weight: bold;">
-          Submit Rating ⭐
-        </button>
-      </td>
-    </tr>
-  </table>
-</form>
+## ⭐ Rate My GitHub Profile
 
----
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/prd/detail-sign?username=shahidazam2020-oss&theme=default" width="48%" />
-</p>
+**Click a rating below to send direct feedback to my inbox:**
+
+| Rating | Click to Send |
+| :---: | :--- |
+| ⭐⭐⭐⭐⭐ | [5 Stars - Excellent](mailto:your-email@example.com?subject=Profile%20Rating%3A%205%20Stars&body=Name%3A%0AEmail%3A%0AFeedback%3A) |
+| ⭐⭐⭐⭐ | [4 Stars - Very Good](mailto:your-email@example.com?subject=Profile%20Rating%3A%204%20Stars&body=Name%3A%0AEmail%3A%0AFeedback%3A) |
+| ⭐⭐⭐ | [3 Stars - Good](mailto:your-email@example.com?subject=Profile%20Rating%3A%203%20Stars&body=Name%3A%0AEmail%3A%0AFeedback%3A) |
+| ⭐⭐ | [2 Stars - Fair](mailto:your-email@example.com?subject=Profile%20Rating%3A%202%20Stars&body=Name%3A%0AEmail%3A%0AFeedback%3A) |
+| ⭐ | [1 Star - Needs Work](mailto:your-email@example.com?subject=Profile%20Rating%3A%201%20Star&body=Name%3A%0AEmail%3A%0AFeedback%3A) |
+
+</div>

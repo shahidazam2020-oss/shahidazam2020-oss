@@ -192,10 +192,46 @@ I'm actively looking for **AI Engineering**, **Backend Engineering**, and **AI/M
 
 If you'd like to collaborate, discuss an opportunity, or just connect, feel free to reach out.
 
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0366d6&height=100&section=footer" width="100%"/>
-</div>
+## 💬 Leave a Feedback & Rating
+
+<form action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST">
+  <table border="0" cellspacing="0" cellpadding="5">
+    <tr>
+      <td><label for="name"><b>Your Name:</b></label></td>
+      <td><input type="text" id="name" name="name" placeholder="John Doe" required style="width: 250px;" /></td>
+    </tr>
+    <tr>
+      <td><label for="email"><b>Your Email:</b></label></td>
+      <td><input type="email" id="email" name="reply_to" placeholder="john@example.com" required style="width: 250px;" /></td>
+    </tr>
+    <tr>
+      <td><label for="rating"><b>Star Rating:</b></label></td>
+      <td>
+        <select id="rating" name="rating" required style="width: 258px;">
+          <option value="⭐⭐⭐⭐⭐ (5/5) - Excellent">⭐⭐⭐⭐⭐ (5/5) - Excellent</option>
+          <option value="⭐⭐⭐⭐ (4/5) - Very Good">⭐⭐⭐⭐ (4/5) - Very Good</option>
+          <option value="⭐⭐⭐ (3/5) - Good">⭐⭐⭐ (3/5) - Good</option>
+          <option value="⭐⭐ (2/5) - Fair">⭐⭐ (2/5) - Fair</option>
+          <option value="⭐ (1/5) - Needs Improvement">⭐ (1/5) - Needs Improvement</option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><label for="message"><b>Comments / Feedback:</b></label></td>
+      <td><textarea id="message" name="message" rows="4" placeholder="Share your thoughts..." style="width: 250px;"></textarea></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <button type="submit" style="background-color: #2da44e; color: white; padding: 6px 16px; border: none; border-radius: 6px; cursor: pointer; font-weight: bold;">
+          Submit Rating ⭐
+        </button>
+      </td>
+    </tr>
+  </table>
+</form>
 
 ---
 <p align="center">

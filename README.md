@@ -202,7 +202,7 @@ If you'd like to collaborate, discuss an opportunity, or just connect, feel free
 
 | Rating | Click to Send |
 | :---: | :--- |
-| ⭐⭐⭐⭐⭐ | [5 Stars - Excellent](mailto:your-email@example.com?subject=Profile%20Rating%3A%205%20Stars&body=Name%3A%0AEmail%3A%0AFeedback%3A) |
+| ⭐⭐⭐⭐⭐ | [5 Stars - Excellent](mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) |
 | ⭐⭐⭐⭐ | [4 Stars - Very Good](mailto:your-email@example.com?subject=Profile%20Rating%3A%204%20Stars&body=Name%3A%0AEmail%3A%0AFeedback%3A) |
 | ⭐⭐⭐ | [3 Stars - Good](mailto:your-email@example.com?subject=Profile%20Rating%3A%203%20Stars&body=Name%3A%0AEmail%3A%0AFeedback%3A) |
 | ⭐⭐ | [2 Stars - Fair](mailto:your-email@example.com?subject=Profile%20Rating%3A%202%20Stars&body=Name%3A%0AEmail%3A%0AFeedback%3A) |

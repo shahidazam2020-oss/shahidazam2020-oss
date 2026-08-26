@@ -45,7 +45,7 @@ I enjoy building complete software systems—from networking and operating syste
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔍 Project 1: AI Platform</h3>
+      <h3>🔍 Project 1:Comparative Analysis of Five Pre Trained Deep Learning Models for Image Classification</h3>
       <p>A hands on Jupyter Notebook project where I implemented and compared five pre trained deep learning models for image classification. The project includes data preprocessing, model training, performance evaluation, and visual analysis to compare the strengths and results of different models.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -54,7 +54,7 @@ I enjoy building complete software systems—from networking and operating syste
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗄️ Project 2: Key-Value Store</h3>
+      <h3>🗄️ Project 2: Deep Learning Based Facial Emotion Classification Using CNN and Transfer Learning</h3>
       <p>A Jupyter Notebook based deep learning project for facial emotion classification. I performed data cleaning, exploratory analysis, image preprocessing, and model development using a custom CNN and transfer learning models such as VGGNet and ResNet50. The project also includes data augmentation, model evaluation, predictions, and preparation of the trained model for deployment.</p>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />

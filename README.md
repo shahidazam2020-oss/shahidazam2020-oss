@@ -190,7 +190,7 @@ I enjoy building complete software systems—from networking and operating syste
 # 💻 Spent My Time
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight" alt="WakaTime Stats" />
+  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Capture.PNG" />
 </div>
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)

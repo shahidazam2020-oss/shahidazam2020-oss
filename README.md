@@ -187,6 +187,32 @@ I enjoy building complete software systems—from networking and operating syste
   </p>
 ---
 
+# 💻 Spent My Time
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight" alt="WakaTime Stats" />
+</div>
+
+![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📩 Connect with me
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+    <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+---
+
 <div align="center">
 
 ## 💬 Submit Your Rating & Feedback

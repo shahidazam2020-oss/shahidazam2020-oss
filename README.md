@@ -19,6 +19,15 @@
   <a href="https://www.instagram.com/shahid_uoch?igsi=d2h2czdmNWN1N3lj" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://youtube.com/@itinsights-imsciences?si=J4BvQJJsPalkAeVX" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://www.tiktok.com/@shahid_uoch?" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+</a>
+<a href="https://www.snapchat.com/add/shahid-uoch20?share_id=Br8L8OPejXk&locale=en-PK" target="_blank">
+  <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat" />
+</a>
 </p>
 
 ---

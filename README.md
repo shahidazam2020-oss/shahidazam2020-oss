@@ -9,9 +9,6 @@
   <a href="https://shahidazam2020@gmail.com](mailto:shahidazam2020@gmail.com" [![Email](https://img.shields.io/badge/EMAIL-shahidazam2020%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahidazam2020@gmail.com)>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-  <a href="https://leetcode.com/shahidazam" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
-<p align="center">
   <a href="https://www.facebook.com/sha.da.zm.mghl" target="_blank">
     <img src="https://img.shields.io/badge/FACEBOOK-CONNECT-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>

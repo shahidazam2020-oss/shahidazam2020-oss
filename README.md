@@ -268,7 +268,7 @@ I enjoy building complete software systems—from networking and operating syste
       </tr>
     </tbody>
   </table>
-<a href="mailto:YOUR_EMAIL@example.com?subject=Session%20Feedback"
+<a href="mailto:shahidazam2020@gmail.com?subject=Session%20Feedback"
    style="display:inline-block;
           background:#195e57;
           color:#ffffff;

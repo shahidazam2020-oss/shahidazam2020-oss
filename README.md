@@ -223,49 +223,60 @@ I enjoy building complete software systems—from networking and operating syste
 ## 💬 Submit Your Rating & Feedback
 
 <div align="center">
-  <table width="100%" style="background-color: #f6f6f3; border-collapse: collapse; padding: 20px;">
-    <tr>
-      <td align="center">
-        <form onsubmit="alert('Thank you for your feedback!'); return false;" style="background-color: #ffffff; border-radius: 28px; padding: 40px 32px; max-width: 440px; text-align: left; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; box-sizing: border-box;">
-          
-          <div style="color: #1a4d3e; font-size: 12px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 12px;">
-            ONE LAST THING
-          </div>
-          
-          <h2 style="font-family: Georgia, serif; color: #182230; font-size: 28px; font-weight: 700; margin-top: 0; margin-bottom: 16px; border: none; padding: 0;">
-            Session Feedback
-          </h2>
-          
-          <p style="color: #4b5563; font-size: 15px; line-height: 1.5; margin-bottom: 24px;">
-            After your guidance session, please rate your experience and share any thoughts. This helps us improve future sessions.
-          </p>
-          
-          <label style="color: #111827; font-size: 15px; font-weight: 600; display: block; margin-bottom: 8px;">
-            How would you rate the session?
-          </label>
-          
-          <div style="font-size: 30px; color: #d1d5db; margin-bottom: 20px; cursor: pointer;">
-            <span onclick="this.parentElement.children[0].style.color='#f59e0b';this.parentElement.children[1].style.color='#d1d5db';this.parentElement.children[2].style.color='#d1d5db';this.parentElement.children[3].style.color='#d1d5db';this.parentElement.children[4].style.color='#d1d5db';">&#9733;</span><span onclick="this.parentElement.children[0].style.color='#f59e0b';this.parentElement.children[1].style.color='#f59e0b';this.parentElement.children[2].style.color='#d1d5db';this.parentElement.children[3].style.color='#d1d5db';this.parentElement.children[4].style.color='#d1d5db';">&#9733;</span><span onclick="this.parentElement.children[0].style.color='#f59e0b';this.parentElement.children[1].style.color='#f59e0b';this.parentElement.children[2].style.color='#f59e0b';this.parentElement.children[3].style.color='#d1d5db';this.parentElement.children[4].style.color='#d1d5db';">&#9733;</span><span onclick="this.parentElement.children[0].style.color='#f59e0b';this.parentElement.children[1].style.color='#f59e0b';this.parentElement.children[2].style.color='#f59e0b';this.parentElement.children[3].style.color='#f59e0b';this.parentElement.children[4].style.color='#d1d5db';">&#9733;</span><span onclick="this.parentElement.children[0].style.color='#f59e0b';this.parentElement.children[1].style.color='#f59e0b';this.parentElement.children[2].style.color='#f59e0b';this.parentElement.children[3].style.color='#f59e0b';this.parentElement.children[4].style.color='#f59e0b';">&#9733;</span>
-          </div>
-
-          <label style="color: #111827; font-size: 15px; font-weight: 600; display: block; margin-bottom: 8px;">
-            What did you like most about the session?
-          </label>
-          <textarea placeholder="Optional" style="width: 100%; height: 80px; border: 1px solid #d1d5db; border-radius: 12px; padding: 12px; font-size: 14px; font-family: inherit; margin-bottom: 20px; box-sizing: border-box; resize: none; outline: none;"></textarea>
-
-          <label style="color: #111827; font-size: 15px; font-weight: 600; display: block; margin-bottom: 8px;">
-            Any suggestions for improvement?
-          </label>
-          <textarea placeholder="Optional" style="width: 100%; height: 80px; border: 1px solid #d1d5db; border-radius: 12px; padding: 12px; font-size: 14px; font-family: inherit; margin-bottom: 24px; box-sizing: border-box; resize: none; outline: none;"></textarea>
-
-          <button type="submit" style="background-color: #134e4a; color: #ffffff; border: none; border-radius: 9999px; padding: 14px 28px; font-size: 15px; font-weight: 600; cursor: pointer; display: inline-block;">
-            Submit Feedback
-          </button>
-
-        </form>
-      </td>
-    </tr>
-  </table>
+  <svg width="450" height="660" viewBox="0 0 450 660" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+    <defs>
+      <style>
+        .bg-card { fill: #ffffff; rx: 28; ry: 28; filter: drop-shadow(0px 4px 16px rgba(0,0,0,0.06)); }
+        .sub-header { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 700; fill: #1b4d3e; letter-spacing: 1.5px; }
+        .title { font-family: Georgia, serif; font-size: 30px; font-weight: 700; fill: #111827; }
+        .desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 15px; fill: #4b5563; line-height: 1.5; }
+        .label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 15px; font-weight: 600; fill: #111827; }
+        .star { font-size: 26px; fill: #e5e7eb; }
+        .input-box { fill: #ffffff; stroke: #e5e7eb; stroke-width: 1; rx: 12; ry: 12; }
+        .placeholder { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 15px; fill: #9ca3af; }
+        .btn-bg { fill: #134e4a; rx: 24; ry: 24; }
+        .btn-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 15px; font-weight: 600; fill: #ffffff; text-anchor: middle; }
+      </style>
+    </defs>
+    
+    <!-- Outer Card Background -->
+    <rect x="5" y="5" width="440" height="640" class="bg-card" />
+    
+    <!-- Header Section -->
+    <text x="36" y="50" class="sub-header">ONE LAST THING</text>
+    <text x="36" y="90" class="title">Session Feedback</text>
+    
+    <!-- Description -->
+    <text x="36" y="125" class="desc">After your guidance session, please</text>
+    <text x="36" y="147" class="desc">rate your experience and share any</text>
+    <text x="36" y="169" class="desc">thoughts. This helps us improve</text>
+    <text x="36" y="191" class="desc">future sessions.</text>
+    
+    <!-- Rating Question & Stars -->
+    <text x="36" y="240" class="label">How would you rate the session?</text>
+    <g transform="translate(36, 255)">
+      <text x="0" y="20" class="star">&#9733;</text>
+      <text x="30" y="20" class="star">&#9733;</text>
+      <text x="60" y="20" class="star">&#9733;</text>
+      <text x="90" y="20" class="star">&#9733;</text>
+      <text x="120" y="20" class="star">&#9733;</text>
+    </g>
+    
+    <!-- Input Field 1 -->
+    <text x="36" y="325" class="label">What did you like most about the</text>
+    <text x="36" y="347" class="label">session?</text>
+    <rect x="36" y="362" width="368" height="75" class="input-box" />
+    <text x="52" y="392" class="placeholder">Optional</text>
+    
+    <!-- Input Field 2 -->
+    <text x="36" y="475" class="label">Any suggestions for improvement?</text>
+    <rect x="36" y="490" width="368" height="75" class="input-box" />
+    <text x="52" y="520" class="placeholder">Optional</text>
+    
+    <!-- Submit Button -->
+    <rect x="36" y="585" width="200" height="48" class="btn-bg" />
+    <text x="136" y="614" class="btn-text">Submit Feedback</text>
+  </svg>
 </div>
 ---
 

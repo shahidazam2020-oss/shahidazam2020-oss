@@ -222,6 +222,9 @@ I enjoy building complete software systems—from networking and operating syste
 <div align="center">
 ## 💬 Submit Your Rating & Feedback
 
+  <!DOCTYPE html>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Session Feedback</title>
@@ -234,147 +237,85 @@ I enjoy building complete software systems—from networking and operating syste
         }
 
         body {
-            background-color: #f7f7f5;
+            background-color: #f6f6f3;
             display: flex;
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            padding: 20px;
+            padding: 24px 16px;
         }
 
-        .card {
+        .feedback-card {
             background-color: #ffffff;
-            border-radius: 24px;
+            border-radius: 28px;
             padding: 40px 32px;
-            max-width: 440px;
+            max-width: 460px;
             width: 100%;
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
         }
 
-        .subtitle {
-            color: #1b4d3e;
-            font-size: 12px;
+        .header-tag {
+            color: #1a4d3e;
+            font-size: 13px;
             font-weight: 700;
             letter-spacing: 1.5px;
             text-transform: uppercase;
-            margin-bottom: 12px;
+            margin-bottom: 14px;
         }
 
-        .title {
+        .main-title {
             font-family: Georgia, serif;
-            color: #111827;
-            font-size: 28px;
+            color: #182230;
+            font-size: 32px;
             font-weight: 700;
             margin-bottom: 16px;
+            letter-spacing: -0.5px;
         }
 
         .description {
             color: #4b5563;
-            font-size: 15px;
+            font-size: 16px;
             line-height: 1.5;
-            margin-bottom: 28px;
+            margin-bottom: 32px;
         }
 
-        .question-label {
+        .field-label {
             color: #111827;
-            font-size: 15px;
+            font-size: 16px;
             font-weight: 600;
-            margin-bottom: 12px;
+            margin-bottom: 14px;
             display: block;
         }
 
         .star-rating {
             display: flex;
-            gap: 8px;
-            margin-bottom: 24px;
+            gap: 12px;
+            margin-bottom: 32px;
         }
 
         .star {
             color: #e5e7eb;
-            font-size: 24px;
+            font-size: 28px;
             cursor: pointer;
-            transition: color 0.2s;
+            transition: color 0.2s ease;
+            line-height: 1;
         }
 
         .star:hover,
-        .star.active {
-            color: #f59e0b;
+        .star.selected {
+            color: #fbbf24;
         }
 
         .form-group {
-            margin-bottom: 24px;
+            margin-bottom: 28px;
         }
 
-        textarea {
+        .feedback-textarea {
             width: 100%;
-            height: 96px;
-            padding: 14px 16px;
+            height: 108px;
+            padding: 16px;
             border: 1px solid #e5e7eb;
-            border-radius: 12px;
-            font-size: 14px;
-            color: #111827;
-            resize: none;
-            outline: none;
-            transition: border-color 0.2s;
-        }
-
-        textarea::placeholder {
-            color: #9ca3af;
-        }
-
-        textarea:focus {
-            border-color: #1b4d3e;
-        }
-
-        .submit-btn {
-            background-color: #134e4a;
-            color: #ffffff;
-            border: none;
-            border-radius: 9999px;
-            padding: 14px 28px;
-            font-size: 15px;
-            font-weight: 600;
-            cursor: pointer;
-            transition: background-color 0.2s;
-        }
-
-        .submit-btn:hover {
-            background-color: #0f3d3a;
-        }
-    </style>
-</head>
-<body>
-
-    <div class="card">
-        <div class="subtitle">ONE LAST THING</div>
-        <h1 class="title">Session Feedback</h1>
-        <p class="description">
-            After your guidance session, please rate your experience and share any thoughts. This helps us improve future sessions.
-        </p>
-
-        <form>
-            <label class="question-label">How would you rate the session?</label>
-            <div class="star-rating">
-                <span class="star">&#9733;</span>
-                <span class="star">&#9733;</span>
-                <span class="star">&#9733;</span>
-                <span class="star">&#9733;</span>
-                <span class="star">&#9733;</span>
-            </div>
-
-            <div class="form-group">
-                <label class="question-label">What did you like most about the session?</label>
-                <textarea placeholder="Optional"></textarea>
-            </div>
-
-            <div class="form-group">
-                <label class="question-label">Any suggestions for improvement?</label>
-                <textarea placeholder="Optional"></textarea>
-            </div>
-
-            <button type="submit" class="submit-btn">Submit Feedback</button>
-        </form>
-    </div>
+            border
 
 ---
 

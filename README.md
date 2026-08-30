@@ -207,7 +207,7 @@ I enjoy building complete software systems—from networking and operating syste
 ### 📩 Connect with me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:shahidazam2020@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://t.me/YOUR_TELEGRAM_USERNAME">

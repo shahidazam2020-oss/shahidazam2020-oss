@@ -168,6 +168,11 @@ I enjoy building complete software systems—from networking and operating syste
 
 ---
 
+<div align="center">
+  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/download.svg" alt="Session Feedback" width="720">
+</div>
+
+
 ## Connect With Me
 
 <p align="center">

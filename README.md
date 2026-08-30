@@ -223,36 +223,50 @@ I enjoy building complete software systems—from networking and operating syste
 ## 💬 Submit Your Rating & Feedback
 
 <div align="center">
-  <table width="100%" style="background-color: #f6f6f3; padding: 20px; border-collapse: collapse;">
+  <table width="100%" style="background-color: #f6f6f3; border-collapse: collapse; padding: 20px;">
     <tr>
       <td align="center">
-        <div style="background-color: #ffffff; border-radius: 28px; padding: 40px 32px; max-width: 460px; text-align: left; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
-          <div style="color: #1a4d3e; font-size: 12px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 12px;">ONE LAST THING</div>
-          <h2 style="font-family: Georgia, serif; color: #182230; font-size: 28px; font-weight: 700; margin-top: 0; margin-bottom: 16px; border: none;">Session Feedback</h2>
-          <p style="color: #4b5563; font-size: 15px; line-height: 1.5; margin-bottom: 28px;">
+        <form onsubmit="alert('Thank you for your feedback!'); return false;" style="background-color: #ffffff; border-radius: 28px; padding: 40px 32px; max-width: 440px; text-align: left; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; box-sizing: border-box;">
+          
+          <div style="color: #1a4d3e; font-size: 12px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 12px;">
+            ONE LAST THING
+          </div>
+          
+          <h2 style="font-family: Georgia, serif; color: #182230; font-size: 28px; font-weight: 700; margin-top: 0; margin-bottom: 16px; border: none; padding: 0;">
+            Session Feedback
+          </h2>
+          
+          <p style="color: #4b5563; font-size: 15px; line-height: 1.5; margin-bottom: 24px;">
             After your guidance session, please rate your experience and share any thoughts. This helps us improve future sessions.
           </p>
-          <p style="color: #111827; font-size: 15px; font-weight: 600; margin-bottom: 10px;"><strong>How would you rate the session?</strong></p>
-          <div style="font-size: 26px; color: #e5e7eb; margin-bottom: 24px; letter-spacing: 4px;">
-            &#9733; &#9733; &#9733; &#9733; &#9733;
+          
+          <label style="color: #111827; font-size: 15px; font-weight: 600; display: block; margin-bottom: 8px;">
+            How would you rate the session?
+          </label>
+          
+          <div style="font-size: 30px; color: #d1d5db; margin-bottom: 20px; cursor: pointer;">
+            <span onclick="this.parentElement.children[0].style.color='#f59e0b';this.parentElement.children[1].style.color='#d1d5db';this.parentElement.children[2].style.color='#d1d5db';this.parentElement.children[3].style.color='#d1d5db';this.parentElement.children[4].style.color='#d1d5db';">&#9733;</span><span onclick="this.parentElement.children[0].style.color='#f59e0b';this.parentElement.children[1].style.color='#f59e0b';this.parentElement.children[2].style.color='#d1d5db';this.parentElement.children[3].style.color='#d1d5db';this.parentElement.children[4].style.color='#d1d5db';">&#9733;</span><span onclick="this.parentElement.children[0].style.color='#f59e0b';this.parentElement.children[1].style.color='#f59e0b';this.parentElement.children[2].style.color='#f59e0b';this.parentElement.children[3].style.color='#d1d5db';this.parentElement.children[4].style.color='#d1d5db';">&#9733;</span><span onclick="this.parentElement.children[0].style.color='#f59e0b';this.parentElement.children[1].style.color='#f59e0b';this.parentElement.children[2].style.color='#f59e0b';this.parentElement.children[3].style.color='#f59e0b';this.parentElement.children[4].style.color='#d1d5db';">&#9733;</span><span onclick="this.parentElement.children[0].style.color='#f59e0b';this.parentElement.children[1].style.color='#f59e0b';this.parentElement.children[2].style.color='#f59e0b';this.parentElement.children[3].style.color='#f59e0b';this.parentElement.children[4].style.color='#f59e0b';">&#9733;</span>
           </div>
-          <p style="color: #111827; font-size: 15px; font-weight: 600; margin-bottom: 8px;"><strong>What did you like most about the session?</strong></p>
-          <div style="width: 100%; height: 80px; border: 1px solid #e5e7eb; border-radius: 12px; padding: 12px; color: #9ca3af; font-size: 14px; margin-bottom: 24px; box-sizing: border-box; background-color: #ffffff;">
-            Optional
-          </div>
-          <p style="color: #111827; font-size: 15px; font-weight: 600; margin-bottom: 8px;"><strong>Any suggestions for improvement?</strong></p>
-          <div style="width: 100%; height: 80px; border: 1px solid #e5e7eb; border-radius: 12px; padding: 12px; color: #9ca3af; font-size: 14px; margin-bottom: 28px; box-sizing: border-box; background-color: #ffffff;">
-            Optional
-          </div>
-          <div>
-            <span style="background-color: #134e4a; color: #ffffff; border-radius: 9999px; padding: 14px 28px; font-size: 15px; font-weight: 600; display: inline-block;">Submit Feedback</span>
-          </div>
-        </div>
+
+          <label style="color: #111827; font-size: 15px; font-weight: 600; display: block; margin-bottom: 8px;">
+            What did you like most about the session?
+          </label>
+          <textarea placeholder="Optional" style="width: 100%; height: 80px; border: 1px solid #d1d5db; border-radius: 12px; padding: 12px; font-size: 14px; font-family: inherit; margin-bottom: 20px; box-sizing: border-box; resize: none; outline: none;"></textarea>
+
+          <label style="color: #111827; font-size: 15px; font-weight: 600; display: block; margin-bottom: 8px;">
+            Any suggestions for improvement?
+          </label>
+          <textarea placeholder="Optional" style="width: 100%; height: 80px; border: 1px solid #d1d5db; border-radius: 12px; padding: 12px; font-size: 14px; font-family: inherit; margin-bottom: 24px; box-sizing: border-box; resize: none; outline: none;"></textarea>
+
+          <button type="submit" style="background-color: #134e4a; color: #ffffff; border: none; border-radius: 9999px; padding: 14px 28px; font-size: 15px; font-weight: 600; cursor: pointer; display: inline-block;">
+            Submit Feedback
+          </button>
+
+        </form>
       </td>
     </tr>
   </table>
 </div>
-
 ---
 
 ## What I'm Looking For

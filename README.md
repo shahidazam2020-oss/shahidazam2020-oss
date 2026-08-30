@@ -223,8 +223,6 @@ I enjoy building complete software systems—from networking and operating syste
 <div align="center">
 
 
----
-
 ## 💬 Submit Your Rating & Feedback
 
 <div align="center">
@@ -272,18 +270,11 @@ I enjoy building complete software systems—from networking and operating syste
       </tr>
     </tbody>
   </table>
-</div>
-
-        <!-- SUBMIT -->
-
         <button
             type="submit"
             class="submit-button">
             Submit Feedback
         </button>
-
-    </form>
-
 </div>
 
 ---

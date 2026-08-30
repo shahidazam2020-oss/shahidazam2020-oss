@@ -268,143 +268,18 @@ I enjoy building complete software systems—from networking and operating syste
       </tr>
     </tbody>
   </table>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<style>
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background: #ffffff;
-}
-
-form {
-    margin-top: 25px;
-}
-
-textarea {
-    width: 90%;
-    max-width: 500px;
-    height: 120px;
-    padding: 12px;
-    margin: 15px 0;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    font-size: 16px;
-}
-
-.rating {
-    display: flex;
-    justify-content: center;
-    gap: 8px;
-    margin: 15px 0;
-}
-
-.rating input {
-    display: none;
-}
-
-.rating label {
-    font-size: 35px;
-    color: #ddd;
-    cursor: pointer;
-}
-
-.rating label:hover,
-.rating label:hover ~ label,
-.rating input:checked ~ label {
-    color: #f5b301;
-}
-
-button {
-    display: inline-block;
-    background: #195e57;
-    color: white;
-    border: none;
-    border-radius: 40px;
-    padding: 16px 42px;
-    font-size: 19px;
-    font-weight: bold;
-    cursor: pointer;
-}
-
-button:hover {
-    background: #124c47;
-}
-</style>
-</head>
-
-<body>
-
-<h2>Session Feedback</h2>
-
-<form action="https://formsubmit.co/YOUR_EMAIL@example.com"
-      method="POST">
-
-    <input type="hidden"
-           name="_subject"
-           value="New Session Feedback">
-
-    <input type="hidden"
-           name="_captcha"
-           value="false">
-
-    <input type="hidden"
-           name="_template"
-           value="table">
-
-    <h3>How would you rate the session?</h3>
-
-    <div class="rating">
-
-        <input type="radio" id="star5"
-               name="Rating" value="5 Stars" required>
-        <label for="star5">★</label>
-
-        <input type="radio" id="star4"
-               name="Rating" value="4 Stars">
-        <label for="star4">★</label>
-
-        <input type="radio" id="star3"
-               name="Rating" value="3 Stars">
-        <label for="star3">★</label>
-
-        <input type="radio" id="star2"
-               name="Rating" value="2 Stars">
-        <label for="star2">★</label>
-
-        <input type="radio" id="star1"
-               name="Rating" value="1 Star">
-        <label for="star1">★</label>
-
-    </div>
-
-    <h3>What did you like most about the session?</h3>
-
-    <textarea
-        name="Feedback"
-        placeholder="Write your feedback here..."
-        required></textarea>
-
-    <h3>Any suggestions for improvement?</h3>
-
-    <textarea
-        name="Suggestions"
-        placeholder="Optional"></textarea>
-
-    <br>
-
-    <button type="submit">
-        Submit Feedback
-    </button>
-
-</form>
-
-</body>
-</html>
+<a href="mailto:YOUR_EMAIL@example.com?subject=Session%20Feedback"
+   style="display:inline-block;
+          background:#195e57;
+          color:#ffffff;
+          padding:16px 45px;
+          border-radius:50px;
+          text-decoration:none;
+          font-family:Arial,Helvetica,sans-serif;
+          font-size:20px;
+          font-weight:bold;">
+  Submit Feedback
+</a>
 
 ---
 

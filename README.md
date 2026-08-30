@@ -220,7 +220,7 @@ I enjoy building complete software systems—from networking and operating syste
 ---
 
 <div align="center">
-## 💬 Submit Your Rating & Feedback
+
 
 
 
@@ -230,6 +230,8 @@ I enjoy building complete software systems—from networking and operating syste
 
 <br />
 
+---
+## 💬 Submit Your Rating & Feedback
 
 
 ### Select Your Rating:

@@ -222,36 +222,56 @@ I enjoy building complete software systems—from networking and operating syste
 <div align="center">
 
 
-
-
-[![Enter Details](https://img.shields.io/badge/1._CLICK_HERE-Enter_Name_%26_Email-1f6feb?style=for-the-badge&logo=googleforms)](https://forms.google.com)
-
-
-
-<br />
-
 ---
+
 ## 💬 Submit Your Rating & Feedback
 
+<div align="center">
+  <br>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/1.%20CLICK%20HERE-ENTER%20NAME%20%26%20EMAIL-2563eb?style=for-the-badge&logo=pagekit&logoColor=white&labelColor=555555" alt="Enter Name and Email">
+  </a>
 
-### Select Your Rating:
+  <br><br>
 
+  <h3>Select Your Rating:</h3>
 
-
-| Rating | Click to Select & Submit |
-
-| :---: | :--- |
-
-| ⭐⭐⭐⭐⭐ | [![5 Stars](https://img.shields.io/badge/Submit-5_Stars_⭐-238636?style=for-the-badge)](mailto:your-email@example.com?subject=5%20Star%20Rating&body=Name:%0AEmail:%0AFeedback:) |
-
-| ⭐⭐⭐⭐ | [![4 Stars](https://img.shields.io/badge/Submit-4_Stars_⭐-238636?style=for-the-badge)](mailto:your-email@example.com?subject=4%20Star%20Rating&body=Name:%0AEmail:%0AFeedback:) |
-
-| ⭐⭐⭐ | [![3 Stars](https://img.shields.io/badge/Submit-3_Stars_⭐-238636?style=for-the-badge)](mailto:your-email@example.com?subject=3%20Star%20Rating&body=Name:%0AEmail:%0AFeedback:) |
-
-
-
+  <table>
+    <thead>
+      <tr>
+        <th align="center"><b>Rating</b></th>
+        <th align="center"><b>Click to Select &amp; Submit</b></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">⭐ ⭐ ⭐ ⭐ ⭐</td>
+        <td align="center">
+          <a href="#">
+            <img src="https://img.shields.io/badge/SUBMIT-5%20STARS%20%E2%AD%90-1e7e34?style=for-the-badge&labelColor=555555" alt="Submit 5 Stars">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">⭐ ⭐ ⭐ ⭐</td>
+        <td align="center">
+          <a href="#">
+            <img src="https://img.shields.io/badge/SUBMIT-4%20STARS%20%E2%AD%90-1e7e34?style=for-the-badge&labelColor=555555" alt="Submit 4 Stars">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">⭐ ⭐ ⭐</td>
+        <td align="center">
+          <a href="#">
+            <img src="https://img.shields.io/badge/SUBMIT-3%20STARS%20%E2%AD%90-1e7e34?style=for-the-badge&labelColor=555555" alt="Submit 3 Stars">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
----
 
 ## What I'm Looking For
 

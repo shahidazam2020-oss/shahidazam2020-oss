@@ -220,8 +220,6 @@ I enjoy building complete software systems—from networking and operating syste
 
 ---
 
-<div align="center">
-
 
 ## 💬 Submit Your Rating & Feedback
 
@@ -270,13 +268,27 @@ I enjoy building complete software systems—from networking and operating syste
       </tr>
     </tbody>
   </table>
-        <button
-            type="submit"
-            class="submit-button">
-            Submit Feedback
-        </button>
-</div>
+<form action="https://formsubmit.co/YOUR_EMAIL@example.com" method="POST">
 
+  <input type="hidden" name="_subject" value="New Feedback Submitted">
+  <input type="hidden" name="_captcha" value="false">
+  <input type="hidden" name="_template" value="table">
+
+  <button type="submit"
+    style="
+      background:#195e57;
+      color:white;
+      border:none;
+      padding:16px 40px;
+      border-radius:40px;
+      font-size:20px;
+      font-weight:bold;
+      cursor:pointer;
+    ">
+    Submit Feedback
+  </button>
+
+</form>
 ---
 
 <div align="center">

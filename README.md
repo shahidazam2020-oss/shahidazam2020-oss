@@ -222,61 +222,32 @@ I enjoy building complete software systems—from networking and operating syste
 <div align="center">
 ## 💬 Submit Your Rating & Feedback
 
-<div align="center">
-  <svg width="450" height="660" viewBox="0 0 450 660" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
-    <defs>
-      <style>
-        .bg-card { fill: #ffffff; rx: 28; ry: 28; filter: drop-shadow(0px 4px 16px rgba(0,0,0,0.06)); }
-        .sub-header { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 700; fill: #1b4d3e; letter-spacing: 1.5px; }
-        .title { font-family: Georgia, serif; font-size: 30px; font-weight: 700; fill: #111827; }
-        .desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 15px; fill: #4b5563; line-height: 1.5; }
-        .label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 15px; font-weight: 600; fill: #111827; }
-        .star { font-size: 26px; fill: #e5e7eb; }
-        .input-box { fill: #ffffff; stroke: #e5e7eb; stroke-width: 1; rx: 12; ry: 12; }
-        .placeholder { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 15px; fill: #9ca3af; }
-        .btn-bg { fill: #134e4a; rx: 24; ry: 24; }
-        .btn-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 15px; font-weight: 600; fill: #ffffff; text-anchor: middle; }
-      </style>
-    </defs>
-    
-    <!-- Outer Card Background -->
-    <rect x="5" y="5" width="440" height="640" class="bg-card" />
-    
-    <!-- Header Section -->
-    <text x="36" y="50" class="sub-header">ONE LAST THING</text>
-    <text x="36" y="90" class="title">Session Feedback</text>
-    
-    <!-- Description -->
-    <text x="36" y="125" class="desc">After your guidance session, please</text>
-    <text x="36" y="147" class="desc">rate your experience and share any</text>
-    <text x="36" y="169" class="desc">thoughts. This helps us improve</text>
-    <text x="36" y="191" class="desc">future sessions.</text>
-    
-    <!-- Rating Question & Stars -->
-    <text x="36" y="240" class="label">How would you rate the session?</text>
-    <g transform="translate(36, 255)">
-      <text x="0" y="20" class="star">&#9733;</text>
-      <text x="30" y="20" class="star">&#9733;</text>
-      <text x="60" y="20" class="star">&#9733;</text>
-      <text x="90" y="20" class="star">&#9733;</text>
-      <text x="120" y="20" class="star">&#9733;</text>
-    </g>
-    
-    <!-- Input Field 1 -->
-    <text x="36" y="325" class="label">What did you like most about the</text>
-    <text x="36" y="347" class="label">session?</text>
-    <rect x="36" y="362" width="368" height="75" class="input-box" />
-    <text x="52" y="392" class="placeholder">Optional</text>
-    
-    <!-- Input Field 2 -->
-    <text x="36" y="475" class="label">Any suggestions for improvement?</text>
-    <rect x="36" y="490" width="368" height="75" class="input-box" />
-    <text x="52" y="520" class="placeholder">Optional</text>
-    
-    <!-- Submit Button -->
-    <rect x="36" y="585" width="200" height="48" class="btn-bg" />
-    <text x="136" y="614" class="btn-text">Submit Feedback</text>
-  </svg>
+
+
+[![Enter Details](https://img.shields.io/badge/1._CLICK_HERE-Enter_Name_%26_Email-1f6feb?style=for-the-badge&logo=googleforms)](https://forms.google.com)
+
+
+
+<br />
+
+
+
+### Select Your Rating:
+
+
+
+| Rating | Click to Select & Submit |
+
+| :---: | :--- |
+
+| ⭐⭐⭐⭐⭐ | [![5 Stars](https://img.shields.io/badge/Submit-5_Stars_⭐-238636?style=for-the-badge)](mailto:your-email@example.com?subject=5%20Star%20Rating&body=Name:%0AEmail:%0AFeedback:) |
+
+| ⭐⭐⭐⭐ | [![4 Stars](https://img.shields.io/badge/Submit-4_Stars_⭐-238636?style=for-the-badge)](mailto:your-email@example.com?subject=4%20Star%20Rating&body=Name:%0AEmail:%0AFeedback:) |
+
+| ⭐⭐⭐ | [![3 Stars](https://img.shields.io/badge/Submit-3_Stars_⭐-238636?style=for-the-badge)](mailto:your-email@example.com?subject=3%20Star%20Rating&body=Name:%0AEmail:%0AFeedback:) |
+
+
+
 </div>
 ---
 

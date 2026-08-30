@@ -172,6 +172,79 @@ I enjoy building complete software systems—from networking and operating syste
   <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/download.svg" alt="Session Feedback" width="720">
 </div>
 
+---
+
+<div align="center">
+
+<table width="650" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+
+<br>
+
+<p align="left">
+<font size="4" color="#285D58"><b>O N E &nbsp; L A S T &nbsp; T H I N G</b></font>
+</p>
+
+<h1 align="left">Session Feedback</h1>
+
+<p align="left">
+<font size="4" color="#56616C">
+After your guidance session, please<br>
+rate your experience and share any<br>
+thoughts. This helps us improve<br>
+future sessions.
+</font>
+</p>
+
+<br>
+
+<h3 align="left">How would you rate the session?</h3>
+
+<p align="left">
+<font size="6" color="#DEDED9">★ ★ ★ ★ ★</font>
+</p>
+
+<h3 align="left">
+What did you like most about the<br>
+session?
+</h3>
+
+<table width="100%" cellpadding="20" cellspacing="0" border="1">
+<tr>
+<td height="100">
+<font size="4" color="#777B80">Optional</font>
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<h3 align="left">Any suggestions for improvement?</h3>
+
+<table width="100%" cellpadding="20" cellspacing="0" border="1">
+<tr>
+<td height="100">
+<font size="4" color="#777B80">Optional</font>
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<p align="left">
+<a href="https://forms.google.com/">
+<img src="https://img.shields.io/badge/Submit%20Feedback-195E57?style=for-the-badge&logoColor=white" alt="Submit Feedback">
+</a>
+</p>
+
+<br>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## Connect With Me
 

@@ -272,12 +272,14 @@ I enjoy building complete software systems—from networking and operating syste
    style="display:inline-block;
           background:#195e57;
           color:#ffffff;
-          padding:16px 45px;
-          border-radius:50px;
+          padding:10px 24px;
+          border-radius:30px;
           text-decoration:none;
           font-family:Arial,Helvetica,sans-serif;
-          font-size:20px;
-          font-weight:bold;">
+          font-size:12px;
+          font-weight:700;
+          line-height:1;
+          border:0;">
   Submit Feedback
 </a>
 

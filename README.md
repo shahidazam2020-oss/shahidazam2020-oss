@@ -174,77 +174,332 @@ I enjoy building complete software systems—from networking and operating syste
 
 ---
 
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<table width="650" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td>
+<title>Session Feedback</title>
 
-<br>
+<style>
+* {
+    box-sizing: border-box;
+}
 
-<p align="left">
-<font size="4" color="#285D58"><b>O N E &nbsp; L A S T &nbsp; T H I N G</b></font>
-</p>
+body {
+    margin: 0;
+    padding: 20px;
+    background: #f7f7f4;
+    color: #202936;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
-<h1 align="left">Session Feedback</h1>
+.feedback-container {
+    width: 100%;
+    max-width: 645px;
+    margin: 0 auto;
+    background: #ffffff;
+    border: 1px solid #d9d9d4;
+    border-radius: 34px;
+    padding: 54px 52px 54px 52px;
+}
 
-<p align="left">
-<font size="4" color="#56616C">
-After your guidance session, please<br>
-rate your experience and share any<br>
-thoughts. This helps us improve<br>
-future sessions.
-</font>
-</p>
+.subtitle {
+    margin: 0 0 32px 0;
+    color: #285d58;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 4px;
+}
 
-<br>
+h1 {
+    margin: 0 0 30px 0;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 46px;
+    line-height: 1.1;
+    color: #202936;
+}
 
-<h3 align="left">How would you rate the session?</h3>
+.description {
+    margin: 0 0 40px 0;
+    color: #56616c;
+    font-size: 30px;
+    line-height: 1.55;
+}
 
-<p align="left">
-<font size="6" color="#DEDED9">★ ★ ★ ★ ★</font>
-</p>
+.question {
+    margin: 0 0 25px 0;
+    color: #202936;
+    font-size: 27px;
+    line-height: 1.5;
+    font-weight: 700;
+}
 
-<h3 align="left">
-What did you like most about the<br>
-session?
-</h3>
+/* STAR RATING */
 
-<table width="100%" cellpadding="20" cellspacing="0" border="1">
-<tr>
-<td height="100">
-<font size="4" color="#777B80">Optional</font>
-</td>
-</tr>
-</table>
+.rating {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    gap: 8px;
+    margin: 0 0 30px 0;
+}
 
-<br><br>
+.rating input {
+    display: none;
+}
 
-<h3 align="left">Any suggestions for improvement?</h3>
+.rating label {
+    cursor: pointer;
+    font-size: 52px;
+    line-height: 1;
+    color: #deded9;
+    transition: color 0.15s ease, transform 0.15s ease;
+}
 
-<table width="100%" cellpadding="20" cellspacing="0" border="1">
-<tr>
-<td height="100">
-<font size="4" color="#777B80">Optional</font>
-</td>
-</tr>
-</table>
+.rating label:hover,
+.rating label:hover ~ label,
+.rating input:checked ~ label {
+    color: #e3ad2f;
+}
 
-<br><br>
+.rating label:hover {
+    transform: scale(1.08);
+}
 
-<p align="left">
-<a href="https://forms.google.com/">
-<img src="https://img.shields.io/badge/Submit%20Feedback-195E57?style=for-the-badge&logoColor=white" alt="Submit Feedback">
-</a>
-</p>
+/* TEXT AREAS */
 
-<br>
+textarea {
+    width: 100%;
+    min-height: 152px;
+    resize: vertical;
+    padding: 24px 27px;
+    margin-bottom: 52px;
+    border: 1px solid #d7d7d5;
+    border-radius: 14px;
+    outline: none;
+    background: #ffffff;
+    color: #202936;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    line-height: 1.5;
+}
 
-</td>
-</tr>
-</table>
+textarea::placeholder {
+    color: #777b80;
+    opacity: 1;
+}
+
+textarea:focus {
+    border-color: #195e57;
+    box-shadow: 0 0 0 2px rgba(25, 94, 87, 0.08);
+}
+
+/* BUTTON */
+
+.submit-button {
+    width: 345px;
+    height: 88px;
+    border: none;
+    border-radius: 50px;
+    background: #195e57;
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background 0.2s ease, transform 0.15s ease;
+}
+
+.submit-button:hover {
+    background: #124d47;
+    transform: translateY(-1px);
+}
+
+.submit-button:active {
+    transform: translateY(1px);
+}
+
+/* SUCCESS MESSAGE */
+
+.success-message {
+    display: none;
+    margin-top: 25px;
+    padding: 16px 20px;
+    border-radius: 12px;
+    background: #edf7f4;
+    color: #195e57;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+/* MOBILE */
+
+@media (max-width: 600px) {
+
+    body {
+        padding: 10px;
+    }
+
+    .feedback-container {
+        padding: 40px 28px;
+        border-radius: 25px;
+    }
+
+    .subtitle {
+        font-size: 17px;
+        letter-spacing: 3px;
+    }
+
+    h1 {
+        font-size: 36px;
+    }
+
+    .description {
+        font-size: 23px;
+        line-height: 1.5;
+    }
+
+    .question {
+        font-size: 22px;
+    }
+
+    .rating label {
+        font-size: 44px;
+    }
+
+    textarea {
+        font-size: 20px;
+    }
+
+    .submit-button {
+        width: 100%;
+        height: 75px;
+        font-size: 23px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<div class="feedback-container">
+
+    <p class="subtitle">ONE LAST THING</p>
+
+    <h1>Session Feedback</h1>
+
+    <p class="description">
+        After your guidance session, please<br>
+        rate your experience and share any<br>
+        thoughts. This helps us improve<br>
+        future sessions.
+    </p>
+
+    <form
+        action="https://formsubmit.co/YOUR_EMAIL@example.com"
+        method="POST"
+    >
+
+        <!-- FormSubmit settings -->
+
+        <input type="hidden" name="_subject"
+               value="New Session Feedback">
+
+        <input type="hidden" name="_captcha"
+               value="false">
+
+        <input type="hidden" name="_template"
+               value="table">
+
+        <input type="hidden" name="_next"
+               value="https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/success.html">
+
+
+        <!-- RATING -->
+
+        <p class="question">
+            How would you rate the session?
+        </p>
+
+        <div class="rating">
+
+            <input type="radio"
+                   id="star5"
+                   name="Rating"
+                   value="5 Stars"
+                   required>
+
+            <label for="star5">★</label>
+
+            <input type="radio"
+                   id="star4"
+                   name="Rating"
+                   value="4 Stars">
+
+            <label for="star4">★</label>
+
+            <input type="radio"
+                   id="star3"
+                   name="Rating"
+                   value="3 Stars">
+
+            <label for="star3">★</label>
+
+            <input type="radio"
+                   id="star2"
+                   name="Rating"
+                   value="2 Stars">
+
+            <label for="star2">★</label>
+
+            <input type="radio"
+                   id="star1"
+                   name="Rating"
+                   value="1 Star">
+
+            <label for="star1">★</label>
+
+        </div>
+
+
+        <!-- FIRST FEEDBACK -->
+
+        <p class="question">
+            What did you like most about the<br>
+            session?
+        </p>
+
+        <textarea
+            name="What_they_liked"
+            placeholder="Optional"></textarea>
+
+
+        <!-- SECOND FEEDBACK -->
+
+        <p class="question">
+            Any suggestions for improvement?
+        </p>
+
+        <textarea
+            name="Suggestions"
+            placeholder="Optional"></textarea>
+
+
+        <!-- SUBMIT -->
+
+        <button
+            type="submit"
+            class="submit-button">
+            Submit Feedback
+        </button>
+
+    </form>
 
 </div>
+
+</body>
+</html>
 
 ## Connect With Me
 

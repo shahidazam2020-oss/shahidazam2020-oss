@@ -222,9 +222,6 @@ I enjoy building complete software systems—from networking and operating syste
 <div align="center">
 ## 💬 Submit Your Rating & Feedback
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Session Feedback</title>
@@ -378,9 +375,6 @@ I enjoy building complete software systems—from networking and operating syste
             <button type="submit" class="submit-btn">Submit Feedback</button>
         </form>
     </div>
-
-</body>
-</html>
 
 ---
 

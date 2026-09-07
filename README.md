@@ -210,7 +210,7 @@ I enjoy building complete software systems—from networking and operating syste
   <a href="mailto:shahidazam2020@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+  <a href="https://t.me/shahiduoch">
     <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://discord.com/users/YOUR_DISCORD_ID">

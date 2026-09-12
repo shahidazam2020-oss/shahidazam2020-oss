@@ -120,8 +120,7 @@ I enjoy building complete software systems—from networking and operating syste
       <img src="https://raw.githubusercontent.com/shahidazam2020-oss/shahidazam2020-oss/main/Images/github_top_languages_commit_full_hd.png" width="100%" style="border-radius: 8px;" />
     </td>
     <td align="center" width="50%">
-  <img src="https://raw.githubusercontent.com/shahidazam2020-oss/shahidazam2020-oss/main/Images/github_profile_animation_preview.png" alt="GitHub Profile Animation"
-    width="100%"/>
+  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/raw/refs/heads/main/Images/github_profile_animation_preview.png" alt="GitHub Profile Animation">
 </td>
   </tr>
 </table>

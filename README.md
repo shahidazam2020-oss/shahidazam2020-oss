@@ -119,14 +119,38 @@ I enjoy building complete software systems—from networking and operating syste
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/shahidazam2020-oss/shahidazam2020-oss/main/Images/github_top_languages_commit_full_hd.png" width="100%" style="border-radius: 8px;" />
     </td>
+  
    <!-- Row 3: Profile Animation -->
 <table border="0" cellspacing="0" cellpadding="5">
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/shahidazam2020-oss/shahidazam2020-oss/main/Images/github_profile_animation_preview.png" width="100%" />
+      <div style="overflow:hidden; border-radius:12px;">
+        <img
+          src="https://raw.githubusercontent.com/shahidazam2020-oss/shahidazam2020-oss/main/Images/github_profile_animation_preview.png"
+          alt="Animated Profile"
+          width="100%"
+          style="animation: profileMove 4s ease-in-out infinite alternate;"
+        />
+      </div>
     </td>
   </tr>
 </table>
+
+<style>
+@keyframes profileMove {
+  0% {
+    transform: translateX(-25px) scale(0.95);
+  }
+
+  50% {
+    transform: translateX(25px) scale(1.08);
+  }
+
+  100% {
+    transform: translateX(-25px) scale(0.95);
+  }
+}
+</style>
 
 </div>
 

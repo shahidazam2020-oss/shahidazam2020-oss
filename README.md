@@ -122,7 +122,7 @@ I enjoy building complete software systems—from networking and operating syste
    <!-- Row 3: Profile Animation -->
 <table border="0" cellspacing="0" cellpadding="5">
   <tr>
-    <td align="center" width="70%">
+    <td align="center" width="200%">
       <img src="https://raw.githubusercontent.com/shahidazam2020-oss/shahidazam2020-oss/main/Images/github_profile_animation_preview.png" width="100%" />
     </td>
   </tr>

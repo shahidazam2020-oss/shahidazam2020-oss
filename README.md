@@ -121,6 +121,7 @@ I enjoy building complete software systems—from networking and operating syste
   
 ---
 
+<div align="center">
 <!-- ═══════════════════════════════════════════════════════════════
      🏆 CERTIFICATIONS & PROFESSIONAL LEARNING DASHBOARD
      Upload certificates inside: /Certificates/
@@ -128,8 +129,6 @@ I enjoy building complete software systems—from networking and operating syste
      Certificates/Machine Learning.pdf
      Certificates/Deep Learning.pdf
      ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 # 🏆 Certifications & Professional Learning
 

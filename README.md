@@ -772,11 +772,11 @@ Learning Focus
 
 <div align="center">
 
-<a href="Certificates/">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/📂%20OPEN%20CERTIFICATE%20FOLDER-4285F4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="Certificates/">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/🏆%20VIEW%20ALL%20CERTIFICATES-198754?style=for-the-badge">
 </a>
 

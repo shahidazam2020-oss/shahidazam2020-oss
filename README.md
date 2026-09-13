@@ -821,49 +821,7 @@ Learning Focus
 </div>
 
 ---
-## Competitive Programming
-<p align="center">
-<div align="center">
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="33%" align="center">🏆 Codeforces</th>
-      <th width="33%" align="center">⭐ CodeChef</th>
-      <th width="34%" align="center">💻 DSA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <p>Expert</p>
-        <a href="https://codeforces.com/profile/shahidazam2020" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_PROFILE-3B5998?style=for-the-badge&logo=codeforces&logoColor=white" />
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <p>4★ Rated</p>
-        <a href="https://www.codechef.com/users/shahidazam2020" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_PROFILE-5B4636?style=for-the-badge&logo=codechef&logoColor=white" />
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <p><b>1000+ Problems Solved</b></p>
-        <p>Across LeetCode,<br>Codeforces & CodeChef</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-</div>
-</div>
-</p>
-
----
-
-
-## Connect With Me
+# Connect With Me
 
 <p align="center">
   <a href="mailto:shahidazam2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

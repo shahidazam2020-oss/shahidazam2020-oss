@@ -648,73 +648,10 @@ Learning Focus
 </tr>
 
 <tr>
-<td align="center"><b>01</b></td>
-<td><b>Machine Learning</b></td>
-<td>🧠 ML</td>
-<td><a href="Certificates/Machine%20Learning.pdf">📜 View Certificate</a></td>
-</tr>
-
-<tr>
-<td align="center"><b>02</b></td>
-<td><b>Machine Learning with Python</b></td>
-<td>🐍 Python</td>
-<td><a href="Certificates/Machine%20Learning%20with%20Python.pdf">📜 View Certificate</a></td>
-</tr>
-
-<tr>
-<td align="center"><b>03</b></td>
-<td><b>Practical Machine Learning</b></td>
-<td>📊 ML</td>
-<td><a href="Certificates/Practical%20Machine%20Learning.pdf">📜 View Certificate</a></td>
-</tr>
-
-<tr>
-<td align="center"><b>04</b></td>
-<td><b>Deep Learning with TensorFlow & Keras</b></td>
-<td>🔥 DL</td>
-<td><a href="Certificates/Deep%20Learning%20TensorFlow%20Keras.pdf">📜 View Certificate</a></td>
-</tr>
-
-<tr>
-<td align="center"><b>05</b></td>
-<td><b>Generative AI & LLMs</b></td>
-<td>🤖 GenAI</td>
-<td><a href="Certificates/Generative%20AI%20and%20LLMs.pdf">📜 View Certificate</a></td>
-</tr>
-
-<tr>
-<td align="center"><b>06</b></td>
-<td><b>Vision Language Models</b></td>
-<td>👁️ VLM</td>
-<td><a href="Certificates/Vision%20Language%20Models.pdf">📜 View Certificate</a></td>
-</tr>
-
-<tr>
-<td align="center"><b>07</b></td>
-<td><b>OpenCV & Computer Vision</b></td>
-<td>👓 CV</td>
-<td><a href="Certificates/OpenCV%20and%20Computer%20Vision.pdf">📜 View Certificate</a></td>
-</tr>
-
-<tr>
-<td align="center"><b>08</b></td>
-<td><b>Agentic AI with Python</b></td>
-<td>🧩 Agents</td>
-<td><a href="Certificates/Agentic%20AI%20with%20Python.pdf">📜 View Certificate</a></td>
-</tr>
-
-<tr>
-<td align="center"><b>09</b></td>
-<td><b>MLOps Bootcamp</b></td>
-<td>⚙️ MLOps</td>
-<td><a href="Certificates/MLOps%20Bootcamp.pdf">📜 View Certificate</a></td>
-</tr>
-
-<tr>
 <td align="center"><b>10</b></td>
 <td><b>Kaggle Community Member</b></td>
 <td>🏆 Kaggle</td>
-<td><a href="Certificates/Kaggle%20Community%20Member.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Kaggle%20%20Community%20member.png">📜 View Certificate</a></td>
 </tr>
 
 <tr>
@@ -728,77 +665,77 @@ Learning Focus
 <td align="center"><b>12</b></td>
 <td><b>Video Editing</b></td>
 <td>🎬 Digital Skills</td>
-<td><a href="Certificates/Video%20Editing%20Certificate.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Video%20Editing%20Certificate%20AKRSP_page-0001.jpg">📜 View Certificate</a></td>
 </tr>
 
 <tr>
 <td align="center"><b>13</b></td>
 <td><b>Safe Migration</b></td>
 <td>🌍 Training</td>
-<td><a href="Certificates/Safe%20Migration%20Certificate.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Safe%20Migration%20Certificate_of_Participation_page-0001.jpg">📜 View Certificate</a></td>
 </tr>
 
 <tr>
 <td align="center"><b>14</b></td>
 <td><b>Project Management Fundamentals</b></td>
 <td>📋 Management</td>
-<td><a href="Certificates/Project%20Management%20Fundamentals.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Project%20Management%20Fundamental%20Certificate_of_Completion_page-0001.jpg">📜 View Certificate</a></td>
 </tr>
 
 <tr>
 <td align="center"><b>15</b></td>
 <td><b>Project Management Fundamentals</b></td>
 <td>📋 Management</td>
-<td><a href="Certificates/Project%20Management%20Fundamentals%202.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Project%20Management%20Fundamental%20Certificate_of_Completion_page-0002.jpg">📜 View Certificate</a></td>
 </tr>
 
 <tr>
 <td align="center"><b>16</b></td>
 <td><b>IEEE Certificate of Attendance</b></td>
 <td>🌐 IEEE</td>
-<td><a href="Certificates/IEEE%20Certificate%20of%20Attendance.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/IEEE%20Certificate_page-0001.jpg">📜 View Certificate</a></td>
 </tr>
 
 <tr>
 <td align="center"><b>17</b></td>
 <td><b>Hotel & Tourism</b></td>
 <td>🏨 Tourism</td>
-<td><a href="Certificates/Hotel%20and%20Tourism%20Certificate.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Hotel%20%26%20Tourism%20Certificate_page-0001%20(1).jpg">📜 View Certificate</a></td>
 </tr>
 
 <tr>
 <td align="center"><b>18</b></td>
 <td><b>Foundation of ChatGPT</b></td>
 <td>🤖 AI</td>
-<td><a href="Certificates/Foundation%20of%20ChatGPT%20Certificate.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Foundation%20Of%20ChatGPT%20Course_Certificate_page-0001.jpg">📜 View Certificate</a></td>
 </tr>
 
 <tr>
 <td align="center"><b>19</b></td>
 <td><b>Employment Facilitation</b></td>
 <td>💼 Career</td>
-<td><a href="Certificates/Employment%20Facilitation%20Certificate.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Employement%20Facilitation%20Certificate_of_Completion_page-0001.jpg">📜 View Certificate</a></td>
 </tr>
 
 <tr>
 <td align="center"><b>20</b></td>
 <td><b>Digital Skills Freelancing Training</b></td>
 <td>💻 Freelancing</td>
-<td><a href="Certificates/Digital%20Skills%20Freelancing%20Training.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Dig%20Skills%20Freelancing%20Training%20Certificate%20pdf_page-0001.jpg">📜 View Certificate</a></td>
 </tr>
 
 <tr>
 <td align="center"><b>21</b></td>
 <td><b>Digital Marketing Training</b></td>
 <td>📱 Marketing</td>
-<td><a href="Certificates/Digital%20Marketing%20Training.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Dig%20Skills%20Digital%20Marketing%20Training%20Certificate%20pdf_page-0001.jpg">📜 View Certificate</a></td>
 </tr>
 
 <tr>
 <td align="center"><b>22</b></td>
 <td><b>Cyber Safe Learning</b></td>
 <td>🔐 Cyber Security</td>
-<td><a href="Certificates/Cyber%20Safe%20Learning.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Cyber%20Safe%20Learning%20Certificate_of_Completion_page-0001.jpg">📜 View Certificate</a></td>
 </tr>
 
 <tr>
@@ -812,21 +749,21 @@ Learning Focus
 <td align="center"><b>24</b></td>
 <td><b>Computer Operator</b></td>
 <td>💻 IT</td>
-<td><a href="Certificates/Computer%20Operator.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Computer%20Operator%20Certificate_page-0001.jpg">📜 View Certificate</a></td>
 </tr>
 
 <tr>
 <td align="center"><b>25</b></td>
 <td><b>AKRSP Freelancing Training</b></td>
 <td>💼 Freelancing</td>
-<td><a href="Certificates/AKRSP%20Freelancing%20Training.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/AKRSP%20Freelancing%20Training%20Certificate_page-0001.jpg">📜 View Certificate</a></td>
 </tr>
 
 <tr>
 <td align="center"><b>26</b></td>
 <td><b>Basics of E Learning</b></td>
 <td>🎓 E Learning</td>
-<td><a href="Certificates/Basics%20of%20E%20Learning.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Basics%20Of%20E-Learning%20Course_Certificate_page-0001.jpg">📜 View Certificate</a></td>
 </tr>
 
 </table>

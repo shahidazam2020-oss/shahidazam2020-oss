@@ -437,7 +437,7 @@ Courses
 
 ### 🚀 Your Next Certification
 
-<img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Basics%20Of%20E-Learning%20Course_Certificate_page-0001.jpg">
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-yellow?style=flat-square">
 
 **Continuous Learning**
 

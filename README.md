@@ -460,7 +460,7 @@ Courses
 <tr>
 
 <td align="center">
-<a href="Certificates/Machine%20Learning.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Basics%20Of%20E-Learning%20Course_Certificate_page-0001.jpg">
 <img src="Images/certificate_ml.png" width="280">
 </a>
 <br>

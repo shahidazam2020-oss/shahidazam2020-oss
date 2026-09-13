@@ -486,7 +486,7 @@ Courses
 <br>
 <b>🤖 Generative AI</b>
 <br>
-<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/AKRSP%20Freelancing%20Training%20Certificate_page-0001.jpg">View Certificate</a>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">View Certificate</a>
 </td>
 
 </tr>

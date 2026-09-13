@@ -721,7 +721,7 @@ Learning Focus
 <td align="center"><b>11</b></td>
 <td><b>1 Year on Kaggle</b></td>
 <td>🏆 Kaggle</td>
-<td><a href="Certificates/1%20Year%20on%20Kaggle.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/1%20year%20on%20Kaggle.png">📜 View Certificate</a></td>
 </tr>
 
 <tr>

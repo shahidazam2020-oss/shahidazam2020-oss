@@ -132,7 +132,553 @@ I enjoy building complete software systems—from networking and operating syste
 </div>
 
 ---
+<!-- ═══════════════════════════════════════════════════════════════
+     🏆 CERTIFICATIONS & PROFESSIONAL LEARNING DASHBOARD
+     Upload certificates inside: /Certificates/
+     Example:
+     Certificates/Machine Learning.pdf
+     Certificates/Deep Learning.pdf
+     ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+
+# 🏆 Certifications & Professional Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Certifications-15+-brightgreen?style=for-the-badge&logo=academia&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-blue?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep%20Learning-Advanced-orange?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-Advanced-purple?style=for-the-badge&logo=openai&logoColor=white">
+</p>
+
+<p>
+  <a href="#machine-learning--deep-learning">
+    <img src="https://img.shields.io/badge/🧠%20Machine%20Learning-Explore-0A66C2?style=flat-square">
+  </a>
+  <a href="#vision-generative-ai--agents">
+    <img src="https://img.shields.io/badge/🤖%20AI%20%26%20Agents-Explore-7B2CBF?style=flat-square">
+  </a>
+  <a href="#certification-gallery">
+    <img src="https://img.shields.io/badge/🏅%20Certificate%20Gallery-View-198754?style=flat-square">
+  </a>
+</p>
+
+</div>
+
+---
+
+## 📊 Certification Dashboard
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🧠
+**Machine Learning**
+
+**03+**
+
+Courses
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔥
+**Deep Learning**
+
+**01+**
+
+Courses
+
+</td>
+
+<td align="center" width="25%">
+
+### 👁️
+**Computer Vision**
+
+**02+**
+
+Courses
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+**Generative AI**
+
+**05+**
+
+Courses
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+| 🎯 Skill Area | 📚 Learning Level | 🏆 Certificates | 🔗 Portfolio |
+|:---:|:---:|:---:|:---:|
+| 🧠 Machine Learning | Advanced | ✅ | [Explore](#machine-learning--deep-learning) |
+| 🐍 Python for ML | Advanced | ✅ | [Explore](#machine-learning--deep-learning) |
+| 📊 Practical ML | Advanced | ✅ | [Explore](#machine-learning--deep-learning) |
+| 🔥 Deep Learning | Advanced | ✅ | [Explore](#machine-learning--deep-learning) |
+| 🤖 Generative AI | Advanced | ✅ | [Explore](#vision-generative-ai--agents) |
+| 👁️ Vision Language Models | Advanced | ✅ | [Explore](#vision-generative-ai--agents) |
+| 👓 Computer Vision | Advanced | ✅ | [Explore](#vision-generative-ai--agents) |
+| 🧩 Agentic AI | Advanced | ✅ | [Explore](#vision-generative-ai--agents) |
+| ⚙️ MLOps | Intermediate | ✅ | [Explore](#vision-generative-ai--agents) |
+
+</div>
+
+---
+
+# 🧠 Machine Learning & Deep Learning
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### ⑩ 🧠 Machine Learning
+
+<img src="https://img.shields.io/badge/LEVEL-ADVANCED-success?style=flat-square">
+
+**Machine Learning Course**
+
+<br>
+
+<a href="Certificates/Machine%20Learning.pdf">
+<img src="https://img.shields.io/badge/📜%20View%20Certificate-4285F4?style=for-the-badge">
+</a>
+
+<a href="Certificates/Machine%20Learning.pdf">
+<img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⑪ 🐍 Machine Learning with Python
+
+<img src="https://img.shields.io/badge/LEVEL-ADVANCED-success?style=flat-square">
+
+**Machine Learning with Python**
+
+<br>
+
+<a href="Certificates/Machine%20Learning%20with%20Python.pdf">
+<img src="https://img.shields.io/badge/📜%20View%20Certificate-4285F4?style=for-the-badge">
+</a>
+
+<a href="Certificates/Machine%20Learning%20with%20Python.pdf">
+<img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⑫ 📊 Practical Machine Learning
+
+<img src="https://img.shields.io/badge/LEVEL-ADVANCED-success?style=flat-square">
+
+**Practical Machine Learning**
+
+<br>
+
+<a href="Certificates/Practical%20Machine%20Learning.pdf">
+<img src="https://img.shields.io/badge/📜%20View%20Certificate-4285F4?style=for-the-badge">
+</a>
+
+<a href="Certificates/Practical%20Machine%20Learning.pdf">
+<img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⑬ 🔥 Deep Learning
+
+<img src="https://img.shields.io/badge/TensorFlow%20%26%20Keras-ADVANCED-orange?style=flat-square">
+
+**Deep Learning with TensorFlow & Keras**
+
+<br>
+
+<a href="Certificates/Deep%20Learning%20TensorFlow%20Keras.pdf">
+<img src="https://img.shields.io/badge/📜%20View%20Certificate-FF6F00?style=for-the-badge">
+</a>
+
+<a href="Certificates/Deep%20Learning%20TensorFlow%20Keras.pdf">
+<img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 👁️ Vision, Generative AI & Agents
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### ⑭ 🤖 Generative AI & LLMs
+
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-ADVANCED-purple?style=flat-square">
+
+**Generative AI & Large Language Models**
+
+<br>
+
+<a href="Certificates/Generative%20AI%20and%20LLMs.pdf">
+<img src="https://img.shields.io/badge/📜%20View%20Certificate-7B2CBF?style=for-the-badge">
+</a>
+
+<a href="Certificates/Generative%20AI%20and%20LLMs.pdf">
+<img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⑮ 👁️ Vision Language Models
+
+<img src="https://img.shields.io/badge/VLMs-ADVANCED-8A2BE2?style=flat-square">
+
+**Vision Language Models**
+
+<br>
+
+<a href="Certificates/Vision%20Language%20Models.pdf">
+<img src="https://img.shields.io/badge/📜%20View%20Certificate-7B2CBF?style=for-the-badge">
+</a>
+
+<a href="Certificates/Vision%20Language%20Models.pdf">
+<img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⑯ 👓 OpenCV & Computer Vision
+
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-ADVANCED-blue?style=flat-square">
+
+**OpenCV & Computer Vision**
+
+<br>
+
+<a href="Certificates/OpenCV%20and%20Computer%20Vision.pdf">
+<img src="https://img.shields.io/badge/📜%20View%20Certificate-4285F4?style=for-the-badge">
+</a>
+
+<a href="Certificates/OpenCV%20and%20Computer%20Vision.pdf">
+<img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⑰ 🧩 Agentic AI with Python
+
+<img src="https://img.shields.io/badge/AGENTIC%20AI-ADVANCED-6F42C1?style=flat-square">
+
+**Building AI Agents with Python**
+
+<br>
+
+<a href="Certificates/Agentic%20AI%20with%20Python.pdf">
+<img src="https://img.shields.io/badge/📜%20View%20Certificate-6F42C1?style=for-the-badge">
+</a>
+
+<a href="Certificates/Agentic%20AI%20with%20Python.pdf">
+<img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⑱ ⚙️ MLOps Bootcamp
+
+<img src="https://img.shields.io/badge/MLOps-INTERMEDIATE-orange?style=flat-square">
+
+**Machine Learning Operations Bootcamp**
+
+<br>
+
+<a href="Certificates/MLOps%20Bootcamp.pdf">
+<img src="https://img.shields.io/badge/📜%20View%20Certificate-FF6F00?style=for-the-badge">
+</a>
+
+<a href="Certificates/MLOps%20Bootcamp.pdf">
+<img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Your Next Certification
+
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-yellow?style=flat-square">
+
+**Continuous Learning**
+
+<br>
+
+<img src="https://img.shields.io/badge/📚%20Learning-Active-yellow?style=for-the-badge">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏅 Certification Gallery
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<a href="Certificates/Machine%20Learning.pdf">
+<img src="Images/certificate_ml.png" width="280">
+</a>
+<br>
+<b>🧠 Machine Learning</b>
+<br>
+<a href="Certificates/Machine%20Learning.pdf">View Certificate</a>
+</td>
+
+<td align="center">
+<a href="Certificates/Deep%20Learning%20TensorFlow%20Keras.pdf">
+<img src="Images/certificate_dl.png" width="280">
+</a>
+<br>
+<b>🔥 Deep Learning</b>
+<br>
+<a href="Certificates/Deep%20Learning%20TensorFlow%20Keras.pdf">View Certificate</a>
+</td>
+
+<td align="center">
+<a href="Certificates/Generative%20AI%20and%20LLMs.pdf">
+<img src="Images/certificate_genai.png" width="280">
+</a>
+<br>
+<b>🤖 Generative AI</b>
+<br>
+<a href="Certificates/Generative%20AI%20and%20LLMs.pdf">View Certificate</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📚 Learning Progress
+
+<table width="100%">
+<tr>
+<td width="20%" align="center">🧠<br><b>Machine Learning</b></td>
+<td width="60%">
+
+<img src="https://progress-bar.dev/95/?title=Progress&width=500">
+
+</td>
+<td width="20%" align="center"><b>95%</b></td>
+</tr>
+
+<tr>
+<td align="center">🔥<br><b>Deep Learning</b></td>
+<td>
+
+<img src="https://progress-bar.dev/90/?title=Progress&width=500">
+
+</td>
+<td align="center"><b>90%</b></td>
+</tr>
+
+<tr>
+<td align="center">🤖<br><b>Generative AI</b></td>
+<td>
+
+<img src="https://progress-bar.dev/85/?title=Progress&width=500">
+
+</td>
+<td align="center"><b>85%</b></td>
+</tr>
+
+<tr>
+<td align="center">👁️<br><b>Computer Vision</b></td>
+<td>
+
+<img src="https://progress-bar.dev/88/?title=Progress&width=500">
+
+</td>
+<td align="center"><b>88%</b></td>
+</tr>
+
+<tr>
+<td align="center">⚙️<br><b>MLOps</b></td>
+<td>
+
+<img src="https://progress-bar.dev/75/?title=Progress&width=500">
+
+</td>
+<td align="center"><b>75%</b></td>
+</tr>
+
+</table>
+
+---
+
+# 🧰 Technical Skills Verified Through Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Expertise-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Deep%20Learning-Expertise-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/NLP-Expertise-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Computer%20Vision-Expertise-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLMs-Expertise-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI%20Agents-Expertise-yellow?style=for-the-badge">
+
+</div>
+
+---
+
+# 📈 Certification Statistics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 🏆
+
+**15+**
+
+<br>
+Certificates
+
+</td>
+
+<td align="center">
+
+### 📚
+
+**8+**
+
+<br>
+AI Domains
+
+</td>
+
+<td align="center">
+
+### 🧠
+
+**10+**
+
+<br>
+Core Technologies
+
+</td>
+
+<td align="center">
+
+### 🚀
+
+**100%**
+
+<br>
+Learning Focus
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<details>
+<summary><b>📜 View All Certificates</b></summary>
+
+<br>
+
+| # | Certification | Category | Certificate |
+|:---:|:---|:---:|:---:|
+| 01 | Machine Learning | 🧠 ML | [📜 View](Certificates/Machine%20Learning.pdf) |
+| 02 | Machine Learning with Python | 🐍 Python | [📜 View](Certificates/Machine%20Learning%20with%20Python.pdf) |
+| 03 | Practical Machine Learning | 📊 ML | [📜 View](Certificates/Practical%20Machine%20Learning.pdf) |
+| 04 | Deep Learning with TensorFlow & Keras | 🔥 DL | [📜 View](Certificates/Deep%20Learning%20TensorFlow%20Keras.pdf) |
+| 05 | Generative AI & LLMs | 🤖 GenAI | [📜 View](Certificates/Generative%20AI%20and%20LLMs.pdf) |
+| 06 | Vision Language Models | 👁️ VLM | [📜 View](Certificates/Vision%20Language%20Models.pdf) |
+| 07 | OpenCV & Computer Vision | 👓 CV | [📜 View](Certificates/OpenCV%20and%20Computer%20Vision.pdf) |
+| 08 | Agentic AI with Python | 🧩 Agents | [📜 View](Certificates/Agentic%20AI%20with%20Python.pdf) |
+| 09 | MLOps Bootcamp | ⚙️ MLOps | [📜 View](Certificates/MLOps%20Bootcamp.pdf) |
+
+</details>
+
+---
+
+<div align="center">
+
+### 🌟 Continuous Learning • Practical Skills • Verified Knowledge
+
+<img src="https://komarev.com/ghpvc/?username=shahidazam2020-oss&label=Profile%20Views&color=brightgreen&style=for-the-badge">
+
+<br><br>
+
+<a href="https://github.com/shahidazam2020-oss">
+<img src="https://img.shields.io/badge/💻%20GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/shahidazam2020-oss?tab=repositories">
+<img src="https://img.shields.io/badge/📂%20Repositories-Explore-blue?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+---
 ## Competitive Programming
 <p align="center">
 <div align="center">

@@ -117,7 +117,8 @@ I enjoy building complete software systems—from networking and operating syste
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/shahidazam2020-oss/shahidazam2020-oss/main/Images/github_top_languages_commit_full_hd.png" width="100%" style="border-radius: 8px;" />
     </td>
-<br/>
+  </tr>
+</table>
   
 ---
 

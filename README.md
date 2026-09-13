@@ -261,11 +261,11 @@ Courses
 
 <br>
 
-<a href="Certificates/Machine%20Learning%20with%20Python.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/📜%20View%20Certificate-4285F4?style=for-the-badge">
 </a>
 
-<a href="Certificates/Machine%20Learning%20with%20Python.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
 </a>
 
@@ -285,11 +285,11 @@ Courses
 
 <br>
 
-<a href="Certificates/Practical%20Machine%20Learning.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/📜%20View%20Certificate-4285F4?style=for-the-badge">
 </a>
 
-<a href="Certificates/Practical%20Machine%20Learning.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
 </a>
 
@@ -305,11 +305,11 @@ Courses
 
 <br>
 
-<a href="Certificates/Deep%20Learning%20TensorFlow%20Keras.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/📜%20View%20Certificate-FF6F00?style=for-the-badge">
 </a>
 
-<a href="Certificates/Deep%20Learning%20TensorFlow%20Keras.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
 </a>
 
@@ -335,11 +335,11 @@ Courses
 
 <br>
 
-<a href="Certificates/Generative%20AI%20and%20LLMs.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/📜%20View%20Certificate-7B2CBF?style=for-the-badge">
 </a>
 
-<a href="Certificates/Generative%20AI%20and%20LLMs.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
 </a>
 
@@ -355,11 +355,11 @@ Courses
 
 <br>
 
-<a href="Certificates/Vision%20Language%20Models.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/📜%20View%20Certificate-7B2CBF?style=for-the-badge">
 </a>
 
-<a href="Certificates/Vision%20Language%20Models.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
 </a>
 
@@ -379,11 +379,11 @@ Courses
 
 <br>
 
-<a href="Certificates/OpenCV%20and%20Computer%20Vision.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/📜%20View%20Certificate-4285F4?style=for-the-badge">
 </a>
 
-<a href="Certificates/OpenCV%20and%20Computer%20Vision.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
 </a>
 
@@ -399,11 +399,11 @@ Courses
 
 <br>
 
-<a href="Certificates/Agentic%20AI%20with%20Python.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/📜%20View%20Certificate-6F42C1?style=for-the-badge">
 </a>
 
-<a href="Certificates/Agentic%20AI%20with%20Python.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
 </a>
 
@@ -423,11 +423,11 @@ Courses
 
 <br>
 
-<a href="Certificates/MLOps%20Bootcamp.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/📜%20View%20Certificate-FF6F00?style=for-the-badge">
 </a>
 
-<a href="Certificates/MLOps%20Bootcamp.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
 </a>
 
@@ -466,7 +466,7 @@ Courses
 <br>
 <b>🧠 Machine Learning</b>
 <br>
-<a href="Certificates/Machine%20Learning.pdf">View Certificate</a>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">View Certificate</a>
 </td>
 
 <td align="center">

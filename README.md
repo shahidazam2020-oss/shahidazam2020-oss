@@ -476,7 +476,7 @@ Courses
 <br>
 <b>🔥 Deep Learning</b>
 <br>
-<a href="Certificates/Deep%20Learning%20TensorFlow%20Keras.pdf">View Certificate</a>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">View Certificate</a>
 </td>
 
 <td align="center">
@@ -486,7 +486,7 @@ Courses
 <br>
 <b>🤖 Generative AI</b>
 <br>
-<a href="Certificates/Generative%20AI%20and%20LLMs.pdf">View Certificate</a>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">View Certificate</a>
 </td>
 
 </tr>

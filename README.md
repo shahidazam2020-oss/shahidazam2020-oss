@@ -241,11 +241,11 @@ Courses
 
 <br>
 
-<a href="Certificates/Machine%20Learning.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/📜%20View%20Certificate-4285F4?style=for-the-badge">
 </a>
 
-<a href="Certificates/Machine%20Learning.pdf">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/🎓%20Certificate-View-success?style=for-the-badge">
 </a>
 

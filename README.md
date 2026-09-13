@@ -805,7 +805,7 @@ Learning Focus
 <td align="center"><b>23</b></td>
 <td><b>Build a Website with WordPress</b></td>
 <td>🌐 Web Development</td>
-<td><a href="Certificates/Build%20a%20Website%20with%20WordPress.png">📜 View Certificate</a></td>
+<td><a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Build%20A%20Website%20With%20WordPress%20Certificate_of_Completion_page-0001.jpg">📜 View Certificate</a></td>
 </tr>
 
 <tr>

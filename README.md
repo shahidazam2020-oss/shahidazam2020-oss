@@ -53,7 +53,7 @@ I enjoy building complete software systems—from networking and operating syste
 
 ---
 
-## Featured Projects
+## 🚀 Featured Project
 
 <table>
   <tr>

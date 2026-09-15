@@ -827,7 +827,7 @@ Learning Focus
 </div>
 
 ---
-# Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:shahidazam2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

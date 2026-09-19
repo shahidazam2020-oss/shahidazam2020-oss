@@ -942,8 +942,6 @@ Learning Focus
 
 *Your feedback, suggestions, and contributions are welcome.*
 
----
-
 <p align="center">
   <b>🧠 Learn Machine Learning • 💻 Build Models • 📊 Analyze Data • 🚀 Create Projects</b>
 </p>

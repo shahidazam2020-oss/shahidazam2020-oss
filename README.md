@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/ChatGPT%20Image%20Aug%2026%2C%202026%2C%2001_57_22%20AM.png"/>
+  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/header.svg"/>
 </div>
 <div align="center">
   <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/ai-specialization.svg"/>

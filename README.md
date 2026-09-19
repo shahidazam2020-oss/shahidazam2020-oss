@@ -6,30 +6,6 @@
   <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/ai-specialization.svg"/>
 </div>
 
-<!-- SOCIAL / PROFILE BADGES -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://shahidazam2020@gmail.com](mailto:shahidazam2020@gmail.com" [![Email](https://img.shields.io/badge/EMAIL-shahidazam2020%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahidazam2020@gmail.com)>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-  <a href="https://www.facebook.com/sha.da.zm.mghl" target="_blank">
-    <img src="https://img.shields.io/badge/FACEBOOK-CONNECT-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/shahid_uoch?igsi=d2h2czdmNWN1N3lj" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://youtube.com/@itinsights-imsciences?si=J4BvQJJsPalkAeVX" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://www.tiktok.com/@shahid_uoch?" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
-</a>
-<a href="https://www.snapchat.com/add/shahid-uoch20?share_id=Br8L8OPejXk&locale=en-PK" target="_blank">
-  <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat" />
-</a>
-</p>
-
 ---
 <p align="center">
 <p align="center">
@@ -53,6 +29,29 @@ I enjoy building complete software systems—from networking and operating syste
 - 🎯 **Focus Areas:** Data Visualization, AI/ML, Big Data Mining
 - 📬 **Contact:** shahidazam2020@gmail.com
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18" height="18" valign="middle" /> WhatsApp: <a href="https://wa.me/+923412772594" target="_blank">Chat on WhatsApp</a>
+<!-- SOCIAL / PROFILE BADGES -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://shahidazam2020@gmail.com](mailto:shahidazam2020@gmail.com" [![Email](https://img.shields.io/badge/EMAIL-shahidazam2020%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahidazam2020@gmail.com)>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+  <a href="https://www.facebook.com/sha.da.zm.mghl" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-CONNECT-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/shahid_uoch?igsi=d2h2czdmNWN1N3lj" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://youtube.com/@itinsights-imsciences?si=J4BvQJJsPalkAeVX" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://www.tiktok.com/@shahid_uoch?" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+</a>
+<a href="https://www.snapchat.com/add/shahid-uoch20?share_id=Br8L8OPejXk&locale=en-PK" target="_blank">
+  <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat" />
+</a>
+</p>
 
 ---
 

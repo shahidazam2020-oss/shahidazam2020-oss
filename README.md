@@ -112,25 +112,13 @@ I enjoy building complete software systems—from networking and operating syste
 <table border="0" cellspacing="0" cellpadding="5">
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/shahidazam2020-oss/shahidazam2020-oss/main/Images/github_contributions_stats_full_hd.png" width="100%" style="border-radius: 8px;" />
+      <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/github-stats.svg" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/shahidazam2020-oss/shahidazam2020-oss/main/Images/github_commits_chart_full_hd.png" width="100%" style="border-radius: 8px;" />
-    </td>
+   
   </tr>
 </table>
 
-<!-- Row 2: Top Languages Breakdown -->
-<table border="0" cellspacing="0" cellpadding="5">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/shahidazam2020-oss/shahidazam2020-oss/main/Images/github_top_languages_repo_full_hd.png" width="100%" style="border-radius: 8px;" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/shahidazam2020-oss/shahidazam2020-oss/main/Images/github_top_languages_commit_full_hd.png" width="100%" style="border-radius: 8px;" />
-    </td>
-  </tr>
-</table>
+
   
 ---
 

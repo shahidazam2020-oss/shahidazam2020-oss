@@ -119,6 +119,7 @@ I enjoy building complete software systems—from networking and operating syste
 </table>
 
 ---
+
 ## 💻 Spent My Time
 
 <div align="center">
@@ -126,6 +127,7 @@ I enjoy building complete software systems—from networking and operating syste
 </div>
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
 
 ---
 

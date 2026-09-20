@@ -118,8 +118,16 @@ I enjoy building complete software systems—from networking and operating syste
   </tr>
 </table>
 
+---
 
-  
+# 💻 Spent My Time
+
+<div align="center">
+  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/spent-my-time.svg" />
+</div>
+
+![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
 ---
 
 <div align="center">
@@ -833,17 +841,7 @@ Learning Focus
 * 📦 Microservices Architecture
 * 🚀 High-Performance Backend Engineering
   </p>
----
-
-# 💻 Spent My Time
-
-<div align="center">
-  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/spent-my-time.svg" />
-</div>
-
-![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
-
+  
 ---
 
 ## 💬 Submit Your Rating & Feedback

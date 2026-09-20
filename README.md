@@ -7,6 +7,15 @@
 </div>
 
 ---
+# 👨‍💻 About Me
+
+## Shahid Azam
+
+**MS Computer Science Student**
+**Specialization in Artificial Intelligence**
+
+*Institute of Management Sciences, Peshawar, Pakistan*
+
 <p align="center">
 <p align="center">
   <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/profile-header.svg" />
@@ -14,13 +23,6 @@
 
 ---
 
-# 👨‍💻 About Me
-## Shahid Azam
-
-**MS Computer Science Student**
-**Specialization in Artificial Intelligence**
-
-*Institute of Management Sciences, Peshawar, Pakistan*
 
 I enjoy building complete software systems—from networking and operating system concepts to backend architecture, machine learning, and distributed systems.
 

@@ -845,6 +845,51 @@ Learning Focus
   
 ---
 
+<h2 align="center">⭐ Submit Your Rating &amp; Feedback</h2>
+
+<p align="center">
+  Enjoyed my work? Pick a star rating below. The form opens with your rating already selected,<br>
+  and your message goes straight to my inbox.
+</p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th align="center">Rating</th>
+    <th align="center">Click to rate</th>
+  </tr>
+  <tr>
+    <td align="center">⭐⭐⭐⭐⭐</td>
+    <td align="center"><a href="https://YOUR-USERNAME.github.io/feedback/?rating=5"><img alt="Rate 5 stars" src="https://img.shields.io/badge/Rate-5_Stars_%E2%80%93_Excellent-2DD4BF?style=for-the-badge"></a></td>
+  </tr>
+  <tr>
+    <td align="center">⭐⭐⭐⭐</td>
+    <td align="center"><a href="https://YOUR-USERNAME.github.io/feedback/?rating=4"><img alt="Rate 4 stars" src="https://img.shields.io/badge/Rate-4_Stars_%E2%80%93_Very_good-1FAE9A?style=for-the-badge"></a></td>
+  </tr>
+  <tr>
+    <td align="center">⭐⭐⭐</td>
+    <td align="center"><a href="https://YOUR-USERNAME.github.io/feedback/?rating=3"><img alt="Rate 3 stars" src="https://img.shields.io/badge/Rate-3_Stars_%E2%80%93_Good-FFB84D?style=for-the-badge"></a></td>
+  </tr>
+  <tr>
+    <td align="center">⭐⭐</td>
+    <td align="center"><a href="https://YOUR-USERNAME.github.io/feedback/?rating=2"><img alt="Rate 2 stars" src="https://img.shields.io/badge/Rate-2_Stars_%E2%80%93_Fair-FF9F4D?style=for-the-badge"></a></td>
+  </tr>
+  <tr>
+    <td align="center">⭐</td>
+    <td align="center"><a href="https://YOUR-USERNAME.github.io/feedback/?rating=1"><img alt="Rate 1 star" src="https://img.shields.io/badge/Rate-1_Star_%E2%80%93_Poor-FF7A90?style=for-the-badge"></a></td>
+  </tr>
+</table>
+
+<br>
+
+<a href="https://YOUR-USERNAME.github.io/feedback/">
+  <img alt="Write feedback" src="https://img.shields.io/badge/Write_Feedback-Share_your_suggestions-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
 <div align="center">
   <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/session-feedback.svg">
 </div>

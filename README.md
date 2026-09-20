@@ -9,7 +9,7 @@
 ---
 <p align="center">
 <p align="center">
-  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/gemini-svg.svg" width="100%" />
+  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/profile-header.svg" />
 </p>
 
 ---

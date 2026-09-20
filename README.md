@@ -883,7 +883,7 @@ Learning Focus
 
 <br>
 
-  <a href="https://shahidazam2020@gmail.com](mailto:shahidazam2020@gmail.com" [![Email](https://img.shields.io/badge/EMAIL-shahidazam2020%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahidazam2020@gmail.com)>
+   [![Email](https://img.shields.io/badge/EMAIL-shahidazam2020%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahidazam2020@gmail.com)>
   <img alt="Write feedback" src="https://img.shields.io/badge/Write_Feedback-Share_your_suggestions-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 

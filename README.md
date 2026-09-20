@@ -838,7 +838,7 @@ Learning Focus
 # 💻 Spent My Time
 
 <div align="center">
-  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Capture.PNG" />
+  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/spent-my-time.svg" />
 </div>
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)

@@ -148,9 +148,7 @@ I enjoy building complete software systems—from networking and operating syste
 <img src="https://img.shields.io/badge/LEARNING%20TRACKS-5-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Tracks"/>
 <img src="https://img.shields.io/badge/KAGGLE%20MILESTONES-2-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117" alt="Kaggle"/>
 <img src="https://img.shields.io/badge/LEARNING%20MODE-ALWAYS%20ON-059669?style=for-the-badge&labelColor=0d1117" alt="Learning mode"/>
-
 <br/><br/>
-
 <!-- ─────────────── QUICK NAVIGATION BUTTONS ─────────────── -->
 <a href="#ai-tech"><img src="https://img.shields.io/badge/AI%20%26%20TECH-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI & Tech"/></a>
 <a href="#digital"><img src="https://img.shields.io/badge/DIGITAL%20%26%20FREELANCING-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Digital"/></a>

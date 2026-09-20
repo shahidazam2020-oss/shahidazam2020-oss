@@ -14,7 +14,7 @@
 **MS Computer Science Student**
 **Specialization in Artificial Intelligence**
 
-*Institute of Management Sciences, Peshawar, Pakistan*
+**Institute of Management Sciences, Peshawar, Pakistan**
 
 <p align="center">
 <p align="center">

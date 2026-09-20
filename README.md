@@ -140,7 +140,7 @@ I enjoy building complete software systems—from networking and operating syste
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0A66C2,50:7C3AED,100:06B6D4&text=Certifications%20%26%20Professional%20Learning&fontColor=ffffff&fontSize=30&fontAlignY=42&animation=fadeIn&desc=Verified%20learning%20%E2%80%A2%20Continuous%20growth&descSize=15&descAlignY=65" width="100%" alt="Certifications banner"/>
+<img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/certificates-banner.svg"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=640&lines=14+Certificates+%7C+5+Learning+Tracks;AI+%26+Technology+%E2%80%A2+Digital+Skills+%E2%80%A2+Professional+Growth;Always+learning.+Always+building." alt="Typing animation"/>
 

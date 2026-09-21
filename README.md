@@ -333,10 +333,10 @@ I enjoy building complete software systems—from networking and operating syste
 </td>
 
 <td align="center" width="50%">
-<a href="images/Hotel%20%26%20Tourism%20Certificate_page%200001%20%281%29.jpg"><img src="images/Hotel%20%26%20Tourism%20Certificate_page%200001%20%281%29.jpg" width="330" alt="Hotel & Tourism"/></a><br/>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Hotel%20%26%20Tourism%20Certificate_page-0001%20(1).jpg"><img src="images/Hotel%20%26%20Tourism%20Certificate_page%200001%20%281%29.jpg" width="330" alt="Hotel & Tourism"/></a><br/>
 <b>Hotel & Tourism</b><br/>
 <img src="https://img.shields.io/badge/HOSPITALITY-F59E0B?style=flat-square" alt="Hospitality"/><br/>
-<a href="images/Hotel%20%26%20Tourism%20Certificate_page%200001%20%281%29.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-F59E0B?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Hotel%20%26%20Tourism%20Certificate_page-0001%20(1).jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-F59E0B?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
 </td>
 
 </tr>

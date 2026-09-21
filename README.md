@@ -190,7 +190,7 @@ I enjoy building complete software systems—from networking and operating syste
 <a href="images/Cyber%20Safe%20Learning%20Certificate_of_Completion_page%200001.jpg"><img src="images/Cyber%20Safe%20Learning%20Certificate_of_Completion_page%200001.jpg" width="290" alt="Cyber Safe Learning"/></a><br/>
 <b>Cyber Safe Learning</b><br/>
 <img src="https://img.shields.io/badge/CYBER%20SAFETY-7C3AED?style=flat-square&logo=letsencrypt&logoColor=white" alt="Cyber"/><br/>
-<a href="images/Cyber%20Safe%20Learning%20Certificate_of_Completion_page%200001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-7C3AED?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Cyber%20Safe%20Learning%20Certificate_of_Completion_page-0001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-7C3AED?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
 </td>
 
 </tr>

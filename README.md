@@ -218,10 +218,10 @@ I enjoy building complete software systems—from networking and operating syste
 </td>
 
 <td align="center" width="33%">
-<a href="images/Dig%20Skills%20Freelancing%20Training%20Certificate%20pdf_page%200001.jpg"><img src="images/Dig%20Skills%20Freelancing%20Training%20Certificate%20pdf_page%200001.jpg" width="290" alt="Freelancing Training"/></a><br/>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Dig%20Skills%20Freelancing%20Training%20Certificate%20pdf_page-0001.jpg"><img src="images/Dig%20Skills%20Freelancing%20Training%20Certificate%20pdf_page%200001.jpg" width="290" alt="Freelancing Training"/></a><br/>
 <b>Freelancing Training</b><br/>
 <img src="https://img.shields.io/badge/DIGISKILLS-0A66C2?style=flat-square" alt="DigiSkills"/><br/>
-<a href="images/Dig%20Skills%20Freelancing%20Training%20Certificate%20pdf_page%200001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Dig%20Skills%20Freelancing%20Training%20Certificate%20pdf_page-0001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
 </td>
 
 <td align="center" width="33%">

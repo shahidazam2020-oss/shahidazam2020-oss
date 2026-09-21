@@ -295,10 +295,10 @@ I enjoy building complete software systems—from networking and operating syste
 </td>
 
 <td align="center" width="33%">
-<a href="images/Basics%20Of%20E%20Learning%20Course_Certificate_page%200001.jpg"><img src="images/Basics%20Of%20E%20Learning%20Course_Certificate_page%200001.jpg" width="290" alt="Basics of E-Learning"/></a><br/>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Basics%20Of%20E-Learning%20Course_Certificate_page-0001.jpg"><img src="images/Basics%20Of%20E%20Learning%20Course_Certificate_page%200001.jpg" width="290" alt="Basics of E-Learning"/></a><br/>
 <b>Basics of E-Learning</b><br/>
 <img src="https://img.shields.io/badge/E--LEARNING-059669?style=flat-square" alt="E-Learning"/><br/>
-<a href="images/Basics%20Of%20E%20Learning%20Course_Certificate_page%200001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-059669?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Basics%20Of%20E-Learning%20Course_Certificate_page-0001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-059669?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
 </td>
 
 <td align="center" width="33%">

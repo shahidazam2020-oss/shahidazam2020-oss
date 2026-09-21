@@ -287,11 +287,11 @@ I enjoy building complete software systems—from networking and operating syste
 <tr>
 
 <td align="center" width="33%">
-<a href="images/Project%20Management%20Fundamental%20Certificate_of_Completion_page%200001.jpg"><img src="images/Project%20Management%20Fundamental%20Certificate_of_Completion_page%200001.jpg" width="290" alt="Project Management"/></a><br/>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Project%20Management%20Fundamental%20Certificate_of_Completion_page-0001.jpg"><img src="images/Project%20Management%20Fundamental%20Certificate_of_Completion_page%200001.jpg" width="290" alt="Project Management"/></a><br/>
 <b>Project Management Fundamentals</b><br/>
 <img src="https://img.shields.io/badge/PROJECT%20MANAGEMENT-059669?style=flat-square" alt="PM"/><br/>
-<a href="images/Project%20Management%20Fundamental%20Certificate_of_Completion_page%200001.jpg"><img src="https://img.shields.io/badge/VIEW-PAGE%201-059669?style=for-the-badge&logo=googledocs&logoColor=white" alt="Page 1"/></a>
-<a href="images/Project%20Management%20Fundamental%20Certificate_of_Completion_page%200002.jpg"><img src="https://img.shields.io/badge/VIEW-PAGE%202-047857?style=for-the-badge&logo=googledocs&logoColor=white" alt="Page 2"/></a>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Project%20Management%20Fundamental%20Certificate_of_Completion_page-0002.jpg"><img src="https://img.shields.io/badge/VIEW-PAGE%201-059669?style=for-the-badge&logo=googledocs&logoColor=white" alt="Page 1"/></a>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Project%20Management%20Fundamental%20Certificate_of_Completion_page-0002.jpg"><img src="https://img.shields.io/badge/VIEW-PAGE%202-047857?style=for-the-badge&logo=googledocs&logoColor=white" alt="Page 2"/></a>
 </td>
 
 <td align="center" width="33%">

@@ -406,7 +406,7 @@ I enjoy building complete software systems—from networking and operating syste
 
 <br><br>
 
-<a href="Certificates/">
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/tree/main/Images">
 <img src="https://img.shields.io/badge/📂%20BROWSE%20ALL%20CERTIFICATES-000000?style=for-the-badge&logo=github">
 </a>
 

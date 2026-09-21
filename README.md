@@ -173,7 +173,7 @@ I enjoy building complete software systems—from networking and operating syste
 <tr>
 
 <td align="center" width="33%">
-<a href="images/IEEE%20Certificate_page%200001.jpg"><img src="images/IEEE%20Certificate_page%200001.jpg" width="290" alt="IEEE Certificate"/></a><br/>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/IEEE%20Certificate_page-0001.jpg"><img src="images/IEEE%20Certificate_page%200001.jpg" width="290" alt="IEEE Certificate"/></a><br/>
 <b>IEEE Certificate</b><br/>
 <img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE"/><br/>
 <a href="images/IEEE%20Certificate_page%200001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-7C3AED?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>

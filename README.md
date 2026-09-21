@@ -180,10 +180,10 @@ I enjoy building complete software systems—from networking and operating syste
 </td>
 
 <td align="center" width="33%">
-<a href="images/Foundation%20Of%20ChatGPT%20Course_Certificate_page%200001.jpg"><img src="images/Foundation%20Of%20ChatGPT%20Course_Certificate_page%200001.jpg" width="290" alt="Foundation of ChatGPT"/></a><br/>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Foundation%20Of%20ChatGPT%20Course_Certificate_page-0001.jpg"><img src="images/Foundation%20Of%20ChatGPT%20Course_Certificate_page%200001.jpg" width="290" alt="Foundation of ChatGPT"/></a><br/>
 <b>Foundation of ChatGPT</b><br/>
 <img src="https://img.shields.io/badge/GENERATIVE%20AI-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="Gen AI"/><br/>
-<a href="images/Foundation%20Of%20ChatGPT%20Course_Certificate_page%200001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-7C3AED?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Foundation%20Of%20ChatGPT%20Course_Certificate_page-0001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-7C3AED?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
 </td>
 
 <td align="center" width="33%">

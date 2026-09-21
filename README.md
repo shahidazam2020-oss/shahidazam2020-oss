@@ -360,6 +360,7 @@ I enjoy building complete software systems—from networking and operating syste
 <td align="center" width="50%">
 <img src="images/Kaggle%20Community%20member.png" width="330" alt="Kaggle Community Member"/><br/>
 <b>Kaggle Community Member</b>
+  <a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Build%20A%20Website%20With%20WordPress%20Certificate_of_Completion_page-0001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-0891B2?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
 </td>
 
 <td align="center" width="50%">

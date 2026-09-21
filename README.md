@@ -225,10 +225,10 @@ I enjoy building complete software systems—from networking and operating syste
 </td>
 
 <td align="center" width="33%">
-<a href="images/AKRSP%20Freelancing%20Training%20Certificate_page%200001.jpg"><img src="images/AKRSP%20Freelancing%20Training%20Certificate_page%200001.jpg" width="290" alt="AKRSP Freelancing"/></a><br/>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/AKRSP%20Freelancing%20Training%20Certificate_page-0001.jpg"><img src="images/AKRSP%20Freelancing%20Training%20Certificate_page%200001.jpg" width="290" alt="AKRSP Freelancing"/></a><br/>
 <b>AKRSP Freelancing Training</b><br/>
 <img src="https://img.shields.io/badge/AKRSP-0A66C2?style=flat-square" alt="AKRSP"/><br/>
-<a href="images/AKRSP%20Freelancing%20Training%20Certificate_page%200001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/AKRSP%20Freelancing%20Training%20Certificate_page-0001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
 </td>
 
 </tr>

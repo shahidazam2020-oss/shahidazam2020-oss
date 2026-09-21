@@ -263,10 +263,10 @@ I enjoy building complete software systems—from networking and operating syste
 </td>
 
 <td align="center" width="33%">
-<a href="images/Computer%20Operator%20Certificate_page%200001.jpg"><img src="images/Computer%20Operator%20Certificate_page%200001.jpg" width="290" alt="Computer Operator"/></a><br/>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Computer%20Operator%20Certificate_page-0001.jpg"><img src="images/Computer%20Operator%20Certificate_page%200001.jpg" width="290" alt="Computer Operator"/></a><br/>
 <b>Computer Operator</b><br/>
 <img src="https://img.shields.io/badge/IT%20OPERATIONS-0891B2?style=flat-square&logo=windows&logoColor=white" alt="IT"/><br/>
-<a href="images/Computer%20Operator%20Certificate_page%200001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-0891B2?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Computer%20Operator%20Certificate_page-0001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-0891B2?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
 </td>
 
 </tr>

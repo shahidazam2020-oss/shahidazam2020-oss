@@ -372,7 +372,7 @@ I enjoy building complete software systems—from networking and operating syste
 
 <br/>
 
-<a href="https://www.kaggle.com/?utm_source=homescreen"><img src="https://img.shields.io/badge/VISIT%20MY%20KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&=white" alt="Kaggle profile"/></a>
+<a href="https://www.kaggle.com/shahidazam"><img src="https://img.shields.io/badge/VISIT%20MY%20KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&=white" alt="Kaggle profile"/></a>
 
 <br/><br/>
 

@@ -326,10 +326,10 @@ I enjoy building complete software systems—from networking and operating syste
 <tr>
 
 <td align="center" width="50%">
-<a href="images/Safe%20Migration%20Certificate_of_Participation_page%200001.jpg"><img src="images/Safe%20Migration%20Certificate_of_Participation_page%200001.jpg" width="330" alt="Safe Migration"/></a><br/>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Safe%20Migration%20Certificate_of_Participation_page-0001.jpg"><img src="images/Safe%20Migration%20Certificate_of_Participation_page%200001.jpg" width="330" alt="Safe Migration"/></a><br/>
 <b>Safe Migration</b><br/>
 <img src="https://img.shields.io/badge/PARTICIPATION-F59E0B?style=flat-square" alt="Participation"/><br/>
-<a href="images/Safe%20Migration%20Certificate_of_Participation_page%200001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-F59E0B?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
+<a href="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/Images/Safe%20Migration%20Certificate_of_Participation_page-0001.jpg"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-F59E0B?style=for-the-badge&logo=googledocs&logoColor=white" alt="View"/></a>
 </td>
 
 <td align="center" width="50%">

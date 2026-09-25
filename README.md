@@ -504,7 +504,7 @@ I enjoy building complete software systems—from networking and operating syste
 
 *If you find this repository useful for learning Machine Learning, consider giving it a ⭐.*
 
-*Your feedback, suggestions, and contributions are welcome.*
+Your feedback, suggestions, and contributions are welcome.
 
 <p align="center">
   <b>🧠 Learn Machine Learning • 💻 Build Models • 📊 Analyze Data • 🚀 Create Projects</b>

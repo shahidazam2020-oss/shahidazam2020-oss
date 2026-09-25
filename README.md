@@ -520,7 +520,7 @@ I enjoy building complete software systems—from networking and operating syste
 
 I'm actively looking for **Software Engineering**, **Backend Engineering**, and **AI/ML Engineering Internship** opportunities where I can contribute to real-world systems, learn from experienced engineers, and build scalable products.
 
-If you'd like to collaborate, discuss an opportunity, or just connect, feel free to reach out.
+**If you'd like to collaborate, discuss an opportunity, or just connect, feel free to reach out.**
 
 ---
 

@@ -528,7 +528,7 @@ If you'd like to collaborate, discuss an opportunity, or just connect, feel free
 
 ### Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to the repositories you find useful.
+**If you like my work, consider giving a ⭐ to the repositories you find useful.**
 
 </div>
 

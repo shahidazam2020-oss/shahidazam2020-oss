@@ -550,3 +550,6 @@ I'm actively looking for **Software Engineering**, **Backend Engineering**, and 
 </p>
 
 ---
+<div align="center">
+  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/footer-expertise.svg"/>
+</div>

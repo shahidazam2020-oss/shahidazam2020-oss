@@ -523,6 +523,12 @@ I'm actively looking for **Software Engineering**, **Backend Engineering**, and 
 **If you'd like to collaborate, discuss an opportunity, or just connect, feel free to reach out.**
 
 ---
+<div align="center">
+  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/footer-expertise.svg"/>
+</div>
+
+---
+---
 
 <div align="center">
 
@@ -548,8 +554,3 @@ I'm actively looking for **Software Engineering**, **Backend Engineering**, and 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:06B6D4,50:7C3AED,100:0A66C2&section=footer" width="100%" alt="footer"/>
 </p>
-
----
-<div align="center">
-  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/footer-expertise.svg"/>
-</div>

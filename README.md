@@ -518,7 +518,7 @@ Your feedback, suggestions, and contributions are welcome.
 
 ## What I'm Looking For
 
-I'm actively looking for **Software Engineering**, **Backend Engineering**, and **AI/ML Engineering Internship** opportunities where I can contribute to real-world systems, learn from experienced engineers, and build scalable products.
+I'm actively looking for **Data Visualization**, **Data Analysis**, **Machine Learning** and **AI/ML Engineering Internship** opportunities where I can contribute to real-world systems, learn from experienced engineers, and build scalable products.
 
 **If you'd like to collaborate, discuss an opportunity, or just connect, feel free to reach out.**
 

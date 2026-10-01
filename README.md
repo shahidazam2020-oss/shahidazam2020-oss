@@ -422,8 +422,6 @@ I enjoy building complete software systems—from networking and operating syste
 
 <img src="https://komarev.com/ghpvc/?username=shahidazam2020-oss&label=Profile%20Views&color=brightgreen&style=for-the-badge">
 
-<br><br>
-
 <a href="https://github.com/shahidazam2020-oss">
 <img src="https://img.shields.io/badge/💻%20GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>

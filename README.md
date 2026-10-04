@@ -56,8 +56,6 @@ I enjoy building complete software systems—from networking and operating syste
 <a href="https://www.snapchat.com/add/shahid-uoch20?share_id=Br8L8OPejXk&locale=en-PK" target="_blank">
   <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat" />
 </br>
-  <a href="https://www.instagram.com/YOUR-USERNAME" target="_blank">
-    <img src="YOUR_INSTAGRAM_FOLLOW_IMAGE_URL" alt="Instagram Follow">
 </a>
 </a>
 </p>

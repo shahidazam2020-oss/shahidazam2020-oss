@@ -58,6 +58,9 @@ I enjoy building complete software systems—from networking and operating syste
   <a href="https://www.kaggle.com/shahidazam" target="_blank">
   <img src="https://img.shields.io/badge/KAGGLE-VISIT-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
+  <a href="t.me/shahiduoch" target="_blank">
+  <img src="https://img.shields.io/badge/TELEGRAM-JOIN-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
 </br>
 </a>
 </a>

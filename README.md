@@ -55,6 +55,9 @@ I enjoy building complete software systems—from networking and operating syste
 </a>
 <a href="https://www.snapchat.com/add/shahid-uoch20?share_id=Br8L8OPejXk&locale=en-PK" target="_blank">
   <img src="https://img.shields.io/badge/SNAPCHAT-ADD_ME-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
+  <a href="https://www.kaggle.com/shahidazam" target="_blank">
+  <img src="https://img.shields.io/badge/KAGGLE-VISIT-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
 </br>
 </a>
 </a>

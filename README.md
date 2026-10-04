@@ -46,6 +46,7 @@ I enjoy building complete software systems—from networking and operating syste
     <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://youtube.com/@itinsights-imsciences?si=J4BvQJJsPalkAeVX" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-SUBSCRIBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
 </a>
   <br>

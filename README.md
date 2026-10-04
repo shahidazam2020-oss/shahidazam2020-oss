@@ -61,6 +61,9 @@ I enjoy building complete software systems—from networking and operating syste
   <a href="t.me/shahiduoch" target="_blank">
   <img src="https://img.shields.io/badge/TELEGRAM-JOIN-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
+  <a href="https://discord.gg/zHtMmaUK" target="_blank">
+  <img src="https://img.shields.io/badge/DISCORD-CONNECT-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 </br>
 </a>
 </a>

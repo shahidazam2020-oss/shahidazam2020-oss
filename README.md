@@ -51,7 +51,7 @@ I enjoy building complete software systems—from networking and operating syste
 </a>
   <br>
 <a href="https://www.tiktok.com/@shahid_uoch?" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+ <img src="https://img.shields.io/badge/TIKTOK-FOLLOW-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
 </a>
 <a href="https://www.snapchat.com/add/shahid-uoch20?share_id=Br8L8OPejXk&locale=en-PK" target="_blank">
   <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat" />

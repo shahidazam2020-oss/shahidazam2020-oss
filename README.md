@@ -35,7 +35,7 @@ I enjoy building complete software systems—from networking and operating syste
 <p align="center">
   <a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    <a href="https://www.researchgate.net/profile/YOUR-USERNAME" target="_blank">
+    <a href="https://www.researchgate.net/profile/Shahid-Azam-5?ev=hdr_xprf" target="_blank">
   <img src="https://img.shields.io/badge/RESEARCHGATE-CONNECT-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
 </a>
   <a href="https://shahidazam2020@gmail.com](mailto:shahidazam2020@gmail.com" [![Email](https://img.shields.io/badge/EMAIL-shahidazam2020%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahidazam2020@gmail.com)><img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />

@@ -41,6 +41,13 @@ I enjoy building complete software systems—from networking and operating syste
 - 📬 **Contact:** shahidazam2020@gmail.com
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18" height="18" valign="middle" /> WhatsApp: <a href="https://wa.me/+923412772594" target="_blank">Chat on WhatsApp</a>
 <!-- SOCIAL / PROFILE BADGES -->
+
+---
+<div style="font-family: Arial, sans-serif; font-size: 14px; color: #222;">
+  <strong>🌐 Socials:</strong>
+  <hr style="margin: 5px 0; border: 0; border-top: 1px solid #ddd;">
+</div>
+
 <p align="center">
 <a href="https://wa.me/+923412772594" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-CONTACT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />

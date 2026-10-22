@@ -102,8 +102,8 @@ I enjoy building complete software systems—from networking and operating syste
 </a>
 </p>
 
----
 
+---
 ## 🚀 Featured Project
 
 <table>

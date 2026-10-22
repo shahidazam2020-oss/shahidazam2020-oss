@@ -48,7 +48,6 @@ I enjoy building complete software systems—from networking and operating syste
     🌐 Socials:
   </h2>
   <hr style="margin: 5px 0; border: 0; border-top: 1px solid #ddd;">
-</div>
 <p align="center">
 <a href="https://wa.me/+923412772594" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-CONTACT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />

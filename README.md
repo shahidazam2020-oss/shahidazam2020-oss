@@ -43,7 +43,7 @@ I enjoy building complete software systems—from networking and operating syste
 <!-- SOCIAL / PROFILE BADGES -->
 
 ---
-<div style="font-family: Arial, sans-serif; font-size: 14px; color: #222;">
+<div style="font-family: Arial, sans-serif; font-size: 24px; color: #222;">
   <strong>🌐 Socials:</strong>
   <hr style="margin: 5px 0; border: 0; border-top: 1px solid #ddd;">
 </div>

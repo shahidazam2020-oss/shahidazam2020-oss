@@ -125,6 +125,7 @@ I enjoy building complete software systems—from networking and operating syste
       <h3>🗄️ Project 2: Deep Learning Based Facial Emotion Classification Using CNN and Transfer Learning</h3>
       <p>A Jupyter Notebook based deep learning project for facial emotion classification. I performed data cleaning, exploratory analysis, image preprocessing, and model development using a custom CNN and transfer learning models such as VGGNet and ResNet50. The project also includes data augmentation, model evaluation, predictions, and preparation of the trained model for deployment.</p>
       <p>
+         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       </p>

@@ -169,11 +169,6 @@ I enjoy building complete software systems—from networking and operating syste
 </table>
 
 ---
-<a href="https://gitarena.dev/u/shahidazam2020-oss">
-  <img src="https://gitarena.dev/api/badge/shahidazam2020-oss/graph?theme=light&color=purple" alt="GitArena Contributions" width="540" height="175" />
-</a>
-
----
 
 ## 💻 Spent My Time
 

@@ -600,7 +600,15 @@ I'm actively looking for **Data Visualization**, **Data Analysis**, **Machine Le
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:06B6D4,50:7C3AED,100:0A66C2&section=footer" width="100%" alt="footer"/>
 </p>
-[⬆ Back to Top](#-about-me)
 
 
 ---
+<a name="top"></a>
+
+<!-- Your existing README content goes here -->
+
+<p align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
+  </a>
+</p>

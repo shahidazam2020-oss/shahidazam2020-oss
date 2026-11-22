@@ -600,3 +600,8 @@ I'm actively looking for **Data Visualization**, **Data Analysis**, **Machine Le
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:06B6D4,50:7C3AED,100:0A66C2&section=footer" width="100%" alt="footer"/>
 </p>
+
+---
+<div align="center">
+[⬆ Back to Top](#-machine-learning)
+</div>

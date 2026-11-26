@@ -6,6 +6,10 @@
   <a href="https://github.com/shahidazam2020-oss?tab=followers">
     <img src="https://img.shields.io/github/followers/shahidazam2020-oss?label=Followers&style=flat&logo=github" alt="GitHub Followers">
   </a>
+
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00D9FF?style=for-the-badge&labelColor=555555&color=00D9FF" />
+  <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-7C3AED?style=for-the-badge&labelColor=555555&color=7C3AED" />
+  
 </div>
 <div align="center">
   <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/header.svg"/>

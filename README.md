@@ -50,6 +50,8 @@ I enjoy building complete software systems—from networking and operating syste
 
 <div style="font-family: Arial, sans-serif !important; color: #222; width: 100%;">
   <h2 style="font-size: 28px !important; font-weight: bold; margin: 0 0 5px 0; line-height: 1.5;">
+
+---
     🌐 Socials:
   </h2>
   <hr style="margin: 5px 0; border: 0; border-top: 1px solid #ddd;">

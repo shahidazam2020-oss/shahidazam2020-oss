@@ -44,10 +44,10 @@ I enjoy building complete software systems—from networking and operating syste
 - 🎯 **Focus Areas:** Data Visualization, AI/ML, Big Data Mining
 - 📬 **Contact:** shahidazam2020@gmail.com
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18" height="18" valign="middle" /> WhatsApp: <a href="https://wa.me/+923412772594" target="_blank">Chat on WhatsApp</a>
-<!-- SOCIAL / PROFILE BADGES -->
-
 
 ---
+<!-- SOCIAL / PROFILE BADGES -->
+
 <div style="font-family: Arial, sans-serif !important; color: #222; width: 100%;">
   <h2 style="font-size: 28px !important; font-weight: bold; margin: 0 0 5px 0; line-height: 1.5;">
     🌐 Socials:

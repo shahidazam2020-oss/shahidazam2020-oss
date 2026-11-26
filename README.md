@@ -105,11 +105,7 @@ I enjoy building complete software systems—from networking and operating syste
   <a href="https://orcid.org/0009-0001-6825-8863" target="_blank">
   <img src="https://img.shields.io/badge/ORCID-VIEW_PROFILE-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Profile" />
 </a>
-</br>
-</a>
-</a>
 </p>
-
 
 ---
 ## 🚀 Featured Project
